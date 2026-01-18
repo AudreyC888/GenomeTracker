@@ -1,8 +1,0 @@
-[19952:20920:0117/122003.193:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19952:6704:0117/122003.240:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19952:20920:0117/122003.264:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18092:18736:0117/122017.235:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
-[18092:18736:0117/122019.563:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[18092:18736:0117/122019.598:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[18092:18736:0117/122031.589:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[19952:20920:0117/122034.044:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
