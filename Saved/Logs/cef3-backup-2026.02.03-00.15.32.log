@@ -1,0 +1,21 @@
+[2308:18892:0202/183222.067:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2308:18892:0202/183222.087:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[2308:21868:0202/183222.116:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2308:18892:0202/183222.125:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22144:22148:0202/183227.721:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F775CD32C518CB5DCAF4F09DC519863B will be ignored
+[22072:22228:0202/183228.721:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22072:22228:0202/183229.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[2308:21884:0202/183231.059:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[2308:18892:0202/183231.718:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[2308:18892:0202/183231.718:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[2308:18892:0202/183231.718:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[2308:18892:0202/183231.718:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[2308:21884:0202/183231.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[22072:22228:0202/183242.579:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22072:22228:0202/183257.329:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22072:22228:0202/183442.462:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 29
+[22068:22064:0202/183442.477:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22068:22064:0202/183442.477:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2308:21884:0202/185408.013:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2308:21884:0202/185454.019:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2308:18892:0202/191532.159:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
