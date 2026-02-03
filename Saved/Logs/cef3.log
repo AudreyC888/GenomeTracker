@@ -1,16 +1,10 @@
-[13308:17896:0202/191608.301:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13308:23596:0202/191608.341:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[13308:17896:0202/191608.349:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13944:15236:0202/191609.960:ERROR:block_files.cc(448)] Failed to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Cache\Cache_Data\data_0
-[17040:4184:0202/191610.749:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-653A06864235EEA27F6D9F08BCA17FE3 will be ignored
-[13308:14956:0202/191611.143:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[13308:17896:0202/191611.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[13308:17896:0202/191611.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[13308:17896:0202/191611.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[13308:17896:0202/191611.294:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[13308:14956:0202/191611.298:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[13944:7092:0202/191611.377:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[13944:7092:0202/191611.391:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[13308:14956:0202/191613.584:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[13944:7092:0202/191622.841:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[13308:17896:0202/191627.712:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9156:2348:0202/191743.540:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9156:24052:0202/191743.580:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9156:2348:0202/191743.587:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9976:19584:0202/191745.673:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-472C74F8F70DCB9F493A0FC31DA7AC1C will be ignored
+[13792:6900:0202/191746.609:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[13792:6900:0202/191746.626:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9156:16760:0202/191753.082:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13792:6900:0202/191754.402:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[13792:6900:0202/191806.573:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9156:2348:0202/192108.787:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
