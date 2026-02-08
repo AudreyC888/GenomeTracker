@@ -1,0 +1,1 @@
+"C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Saved/ShaderDebugInfo/PCD3D_SM6/PreviewMaterial_2_60cc227ff224cfa4/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0" 0 "DebugCompile" DebugCompile.in DebugCompile.out -DebugSourceFiles="BasePassPixelShader.usf" -TimeToLive=0.0f -KeepInput
