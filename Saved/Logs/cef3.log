@@ -1,16 +1,7 @@
-[13516:11180:0212/102723.014:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13516:9068:0212/102723.369:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[13516:11180:0212/102723.373:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[13516:11180:0212/102723.542:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13516:11180:0212/102723.683:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:11180:0212/102733.352:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:11180:0212/102733.665:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:11180:0212/102734.092:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[14220:8168:0212/102735.589:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8679C6CBCBCC9760E20B94FA0E4D7228 will be ignored
-[13516:11180:0212/102735.632:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:9068:0212/102737.896:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
-[13516:11180:0212/102737.905:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
-[13516:11180:0212/102739.345:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:11180:0212/102753.879:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:7736:0212/104331.772:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[13516:11180:0212/104331.791:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2840:18648:0213/091829.695:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2840:18912:0213/091830.062:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2840:18648:0213/091830.241:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26712:5864:0213/091843.432:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-02E184A54BF4507047E342E88C294038 will be ignored
+[2840:18912:0213/091845.952:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
+[2840:18648:0213/091845.958:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
+[2840:18648:0213/094212.310:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
