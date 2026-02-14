@@ -1,15 +1,19 @@
-[23772:8872:0213/163242.136:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23772:22632:0213/163242.180:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23772:8872:0213/163242.192:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5148:8664:0213/163246.178:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2704474A8B94FE671955D6E37E46B8C7 will be ignored
-[23772:24176:0213/163247.778:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[23772:8872:0213/163248.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[23772:8872:0213/163248.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[23772:8872:0213/163248.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[23772:8872:0213/163248.105:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[23772:24176:0213/163248.112:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[25504:4576:0213/163249.107:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[25504:4576:0213/163249.444:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[25504:4576:0213/163302.443:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[25504:4576:0213/163316.774:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23772:8872:0213/163354.053:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4508:21372:0214/130356.406:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4508:15208:0214/130356.548:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4508:21372:0214/130356.611:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15344:13632:0214/130401.286:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-72D1EFD45EE1F2B1FF958B1D58ED480C will be ignored
+[4508:12276:0214/130402.955:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[4508:21372:0214/130403.619:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4508:21372:0214/130403.619:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4508:21372:0214/130403.619:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4508:21372:0214/130403.619:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4508:12276:0214/130403.623:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11000:16184:0214/130403.955:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11000:16184:0214/130404.615:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11000:16184:0214/130413.689:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11000:16184:0214/130428.289:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11000:16184:0214/130614.373:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[11000:16184:0214/130954.746:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 49
+[11000:16184:0214/130954.746:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 51
+[11000:16184:0214/130954.746:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 53
+[4508:21372:0214/140409.587:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
