@@ -1,7 +1,0 @@
-[1972:19952:0218/095950.059:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1972:16128:0218/095950.432:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1972:19952:0218/095950.583:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1972:19952:0218/100007.739:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[1972:9744:0218/100015.828:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
-[1972:19952:0218/100016.129:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
-[1972:19952:0218/100139.313:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
