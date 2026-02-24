@@ -1,24 +1,12 @@
-[11768:996:0224/101053.364:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11768:996:0224/101053.559:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[11768:9944:0224/101053.745:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11768:996:0224/101053.934:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[760:27652:0224/101056.615:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[760:2188:0224/101056.722:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[760:27652:0224/101056.784:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[760:26084:0224/101109.627:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
-[760:26084:0224/101109.634:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
-[20976:11160:0224/101109.847:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-066AA73A49DCFF5F17A782A81A84F24F will be ignored
-[760:27652:0224/101110.871:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
-[760:27652:0224/101110.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
-[760:27652:0224/101110.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
-[760:27652:0224/101110.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
-[760:28280:0224/101111.081:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
-[16344:28592:0224/101112.303:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-32E89D983ADF336BCB79F649BA2A03DF will be ignored
-[760:27196:0224/101114.136:ERROR:file_util.cc(142)] Moving extension from : C:\Users\acarlisle26\AppData\Local\Temp\scoped_dir760_912126132\CRX_INSTALL to : C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613_1\Default\Extensions\Temp\scoped_dir760_1399546409\CRX_INSTALL failed.
-[760:27652:0224/101114.201:WARNING:load_error_reporter.cc(72)] Extension error: Could not move extension directory into profile.
-[11768:9944:0224/101117.995:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
-[11768:996:0224/101118.290:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
-[19996:13488:0224/101321.292:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[19996:13488:0224/101321.292:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[760:27652:0224/103247.197:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[11768:996:0224/103249.001:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25652:6332:0224/162839.650:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25652:6332:0224/162839.727:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[25652:27464:0224/162839.821:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25652:6332:0224/162839.912:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16268:24272:0224/162846.196:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 19
+[14744:26128:0224/162846.500:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D9A44CA9EDE97916B9566559A078AC39 will be ignored
+[16268:24272:0224/162848.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16268:24272:0224/162848.248:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16268:24272:0224/162849.288:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[16268:24272:0224/162900.009:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16268:24272:0224/162913.664:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[25652:6332:0224/163809.456:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
