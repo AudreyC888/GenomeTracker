@@ -1,0 +1,12 @@
+[25652:6332:0224/162839.650:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25652:6332:0224/162839.727:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[25652:27464:0224/162839.821:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25652:6332:0224/162839.912:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16268:24272:0224/162846.196:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 19
+[14744:26128:0224/162846.500:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D9A44CA9EDE97916B9566559A078AC39 will be ignored
+[16268:24272:0224/162848.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16268:24272:0224/162848.248:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16268:24272:0224/162849.288:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[16268:24272:0224/162900.009:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16268:24272:0224/162913.664:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[25652:6332:0224/163809.456:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
