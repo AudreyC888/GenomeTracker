@@ -1,14 +1,8 @@
-[20504:15932:0227/211926.500:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20504:15932:0227/211926.577:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[20504:24432:0227/211926.690:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20504:15932:0227/211926.808:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8092:19044:0227/211932.014:ERROR:backend_impl.cc(989)] Critical error found -8
-[8092:19044:0227/211932.014:ERROR:entry_impl.cc(1029)] No file for b2020004
-[8092:19044:0227/211932.015:WARNING:storage_block-inl.h(138)] Failed data load.
-[21916:25292:0227/211932.575:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BA7ECC8608563DDC0CE0FB9713224DEF will be ignored
-[8092:5800:0227/211932.772:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
-[8092:5800:0227/211934.951:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[8092:5800:0227/211934.970:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[8092:5800:0227/211945.687:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[8092:5800:0227/212001.022:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20504:15932:0227/212044.750:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22444:20824:0302/100651.158:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22444:20824:0302/100651.352:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[22444:14264:0302/100651.537:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22444:20824:0302/100651.707:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11428:12404:0302/100705.321:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C7A1A8C69C53B1D361E08357256ABC1 will be ignored
+[22444:14264:0302/100707.566:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
+[22444:20824:0302/100707.579:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
+[22444:20824:0302/103117.337:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
