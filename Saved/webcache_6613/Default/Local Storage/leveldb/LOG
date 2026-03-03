@@ -1,3 +1,5 @@
-2026/03/02-10:06:51.847 3a08 Reusing MANIFEST C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/02-10:06:51.855 3a08 Recovering log #20
-2026/03/02-10:06:51.859 3a08 Reusing old log C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
+2026/03/03-10:00:26.009 3668 Reusing MANIFEST C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/03-10:00:26.026 3668 Recovering log #20
+2026/03/03-10:00:26.028 3668 Level-0 table #22: started
+2026/03/03-10:00:26.040 3668 Level-0 table #22: 69450 bytes OK
+2026/03/03-10:00:26.050 3668 Delete type=0 #20
