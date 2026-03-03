@@ -1,0 +1,8 @@
+[20888:12444:0303/100025.312:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20888:9564:0303/100025.689:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20888:12444:0303/100025.851:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20888:12444:0303/100041.952:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[20888:9564:0303/100047.731:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
+[20888:12444:0303/100047.745:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
+[20888:12444:0303/100101.551:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20888:12444:0303/101153.713:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
