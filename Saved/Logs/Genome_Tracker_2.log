@@ -1039,3 +1039,640 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-15.31.11:370][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
 [2026.03.03-15.31.11:370][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
 [2026.03.03-15.31.11:878][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 4e2918f25070ff5178c21c5cce602ca369f535dd), compiling. Is special engine material.
+<<<<<<< HEAD
+=======
+[2026.03.03-15.33.14:031][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.03.03-15.33.14:031][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.03.03-15.33.14:031][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.03.03-15.33.14:031][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.03.03-15.33.14:031][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.03.03-15.33.16:135][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2026.03.03-15.33.16:319][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.03.03-15.33.16:320][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.03.03-15.33.16:321][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.03.03-15.33.16:321][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.03.03-15.33.16:370][  0]LogLiveCoding: Display: Starting LiveCoding
+[2026.03.03-15.33.16:371][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2026.03.03-15.33.16:386][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Genome_Tracker_0x2129e596", connecting to console process (PID: 12096)
+[2026.03.03-15.33.16:386][  0]LogLiveCoding: Display: Waiting for server
+[2026.03.03-15.33.16:389][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.03.03-15.33.16:465][  0]LogSlate: Border
+[2026.03.03-15.33.16:465][  0]LogSlate: BreadcrumbButton
+[2026.03.03-15.33.16:465][  0]LogSlate: Brushes.Title
+[2026.03.03-15.33.16:465][  0]LogSlate: ColorPicker.ColorThemes
+[2026.03.03-15.33.16:465][  0]LogSlate: Default
+[2026.03.03-15.33.16:465][  0]LogSlate: Icons.Save
+[2026.03.03-15.33.16:465][  0]LogSlate: Icons.Toolbar.Settings
+[2026.03.03-15.33.16:465][  0]LogSlate: ListView
+[2026.03.03-15.33.16:465][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.03.03-15.33.16:465][  0]LogSlate: SoftwareCursor_Grab
+[2026.03.03-15.33.16:465][  0]LogSlate: TableView.DarkRow
+[2026.03.03-15.33.16:465][  0]LogSlate: TableView.Row
+[2026.03.03-15.33.16:465][  0]LogSlate: TreeView
+[2026.03.03-15.33.16:845][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.03.03-15.33.16:853][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 8.915 ms
+[2026.03.03-15.33.16:953][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.03.03-15.33.16:953][  0]LogInit: XR: MultiViewport is Disabled
+[2026.03.03-15.33.16:953][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.03.03-15.33.17:057][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2026.03.03-15.33.18:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.03.03-15.33.18:547][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2026.03.03-15.33.18:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.03.03-15.33.18:556][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65324'.
+[2026.03.03-15.33.18:589][  0]LogUdpMessaging: Display: Added local interface '10.20.4.29' to multicast group '230.0.0.1:6666'
+[2026.03.03-15.33.18:589][  0]LogUdpMessaging: Display: Added local interface '127.0.0.1' to multicast group '230.0.0.1:6666'
+[2026.03.03-15.33.18:601][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.03.03-15.33.19:167][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.03.03-15.33.19:168][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.03.03-15.33.19:183][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.03.03-15.33.19:797][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C750B80951194A128000000000009A00 | Instance: C0F853D3477C974C8B95EFAE89A0A429 (HSZULA-16-12704).
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: No NPU adapter found with attributes (!GRAPHICS && (GENERIC_ML || CORE_COMPUTE)) (Windows 11 Version 24H2 or newer)!
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: 0: Intel(R) UHD Graphics (Compute, Graphics)
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: 1: NVIDIA GeForce RTX 3070 Laptop GPU (Compute, Graphics)
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: 2: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   DirectML:  yes
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   D3D12:     yes
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   NPU:       no
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT: Interface availability:
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   GPU: yes
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   RDG: yes
+[2026.03.03-15.33.22:096][  0]LogNNERuntimeORT:   NPU: no
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: No NPU adapter found with attributes (!GRAPHICS && (GENERIC_ML || CORE_COMPUTE)) (Windows 11 Version 24H2 or newer)!
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: 0: Intel(R) UHD Graphics (Compute, Graphics)
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: 1: NVIDIA GeForce RTX 3070 Laptop GPU (Compute, Graphics)
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: 2: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.03.03-15.33.24:590][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.03.03-15.33.24:746][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.03-15.33.24:746][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.03-15.33.24:776][  0]LogTimingProfiler: Initialize
+[2026.03.03-15.33.24:781][  0]LogTimingProfiler: OnSessionChanged
+[2026.03.03-15.33.24:781][  0]LoadingProfiler: Initialize
+[2026.03.03-15.33.24:782][  0]LoadingProfiler: OnSessionChanged
+[2026.03.03-15.33.24:782][  0]LogNetworkingProfiler: Initialize
+[2026.03.03-15.33.24:783][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.03.03-15.33.24:783][  0]LogMemoryProfiler: Initialize
+[2026.03.03-15.33.24:783][  0]LogMemoryProfiler: OnSessionChanged
+[2026.03.03-15.33.26:224][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.03.03-15.33.26:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.03.03-15.33.26:263][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.03.03-15.33.26:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png' error.
+[2026.03.03-15.33.26:663][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png] file: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png]
+[2026.03.03-15.33.26:724][  0]SourceControl: Revision control is disabled
+[2026.03.03-15.33.26:785][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.03.03-15.33.26:785][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png' error.
+[2026.03.03-15.33.26:785][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.03.03-15.33.26:786][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png]
+[2026.03.03-15.33.26:815][  0]SourceControl: Revision control is disabled
+[2026.03.03-15.33.27:007][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.03.03-15.33.27:024][  0]LogCollectionManager: Loaded 0 collections in 0.006654 seconds
+[2026.03.03-15.33.27:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Saved/Collections/' took 0.01s
+[2026.03.03-15.33.27:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Content/Developers/acarlisle26/Collections/' took 0.00s
+[2026.03.03-15.33.27:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Content/Collections/' took 0.00s
+[2026.03.03-15.33.27:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.03.03-15.33.27:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.03.03-15.33.27:735][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2026.03.03-15.33.27:735][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2026.03.03-15.33.27:800][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png' error.
+[2026.03.03-15.33.27:800][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png] file: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png]
+[2026.03.03-15.33.27:800][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png' error.
+[2026.03.03-15.33.27:800][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png]
+[2026.03.03-15.33.27:800][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.03.03-15.33.27:800][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.03.03-15.33.27:885][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.18.1.2-47370208 booting at 2026-03-03T15:33:27.883Z using C
+[2026.03.03-15.33.27:887][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Configuration win64-dynamic-x86_64
+[2026.03.03-15.33.27:887][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.7705.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Genome_Tracker, ProductVersion=++UE5+Release-5.7-CL-48512491, IsServer=false, Flags=DisableOverlay]
+[2026.03.03-15.33.27:890][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.03.03-15.33.27:892][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.03.03-15.33.27:913][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.03.03-15.33.27:914][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.03.03-15.33.27:914][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.03.03-15.33.27:914][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000186
+[2026.03.03-15.33.27:944][  0]LogWindows: Failed to load 'Wintab32.dll' (GetLastError=126)
+[2026.03.03-15.33.27:944][  0]LogWindows: File 'Wintab32.dll' does not exist
+[2026.03.03-15.33.27:944][  0]LogStylusInput: Wintab driver is not available; Wintab interface will be not be initialized.
+[2026.03.03-15.33.28:226][  0]LogUObjectArray: 43767 objects as part of root set at end of initial load.
+[2026.03.03-15.33.28:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.03.03-15.33.28:631][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/CoreUObject.InterpCurveQuat. Time(ms): 1.3
+[2026.03.03-15.33.28:645][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Engine.PostProcessSettings. Time(ms): 2.0
+[2026.03.03-15.33.28:655][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/UnrealEd.CollectionScriptingContainerSource. Time(ms): 2.0
+[2026.03.03-15.33.28:844][  0]LogEngine: Initializing Engine...
+[2026.03.03-15.33.29:158][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.03.03-15.33.29:962][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.03.03-15.33.30:091][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.03.03-15.33.31:409][  0]LogTexture: Display: Waiting for textures to be ready 31/39 (/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT) ...
+[2026.03.03-15.33.31:457][  0]LogTexture: Display: Waiting for textures to be ready 33/39 (/Engine/EngineMaterials/BaseFlattenLinearColor_VT) ...
+[2026.03.03-15.33.31:490][  0]LogTexture: Display: Waiting for textures to be ready 34/39 (/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT) ...
+[2026.03.03-15.33.31:540][  0]LogTexture: Display: Waiting for textures to be ready 35/39 (/Engine/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy) ...
+[2026.03.03-15.33.31:606][  0]LogTexture: Display: Waiting for textures to be ready 36/39 (/Engine/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray) ...
+[2026.03.03-15.33.31:655][  0]LogTexture: Display: Waiting for textures to be ready 37/39 (/Engine/EngineMaterials/EnergyConservation/Sheen_Energy) ...
+[2026.03.03-15.33.31:801][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.03.03-15.33.31:868][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.03.03-15.33.31:868][  0]LogInit: Texture streaming: Enabled
+[2026.03.03-15.33.31:903][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.7.1-48512491+++UE5+Release-5.7 )
+[2026.03.03-15.33.31:909][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.03.03-15.33.31:934][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.03.03-15.33.31:936][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.03.03-15.33.31:939][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.03.03-15.33.31:939][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-15.33.31:940][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.03-15.33.31:940][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-15.33.31:941][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-15.33.31:941][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-15.33.31:941][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-15.33.31:960][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.03-15.33.32:042][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Realtek(R) Audio)'
+[2026.03.03-15.33.32:047][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.03.03-15.33.32:052][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Realtek(R) Audio)'
+[2026.03.03-15.33.32:056][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.03.03-15.33.32:062][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.03.03-15.33.32:066][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.03.03-15.33.32:171][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.03-15.33.32:175][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-15.33.32:179][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-15.33.32:179][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-15.33.32:195][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.03-15.33.32:195][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.03-15.33.32:199][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.03.03-15.33.32:199][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.03-15.33.32:199][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.03.03-15.33.32:202][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.03.03-15.33.32:202][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.03.03-15.33.32:228][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.03.03-15.33.32:250][  0]LogInit: Undo buffer set to 256 MB
+[2026.03.03-15.33.32:250][  0]LogInit: Transaction tracking system initialized
+[2026.03.03-15.33.32:323][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-15.33.32:432][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/VREditor/TransformGizmo/SM_Sequencer_Node) ...
+[2026.03.03-15.33.32:663][  0]LocalizationService: Localization service is disabled
+[2026.03.03-15.33.34:189][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Localization
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Material
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/DataValidation.PackageFileValidator
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-15.33.34:283][  0]LogContentValidation: Adding native validator /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-15.33.34:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Content/' took 0.08s
+[2026.03.03-15.33.34:476][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.03.03-15.33.34:479][  0]LogPython: Using Python 3.11.8
+[2026.03.03-15.33.34:755][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.03.03-15.33.35:448][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (4 permutations).
+[2026.03.03-15.33.35:830][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.03.03-15.33.35:901][  0]LogEditorDataStorage: Initializing
+[2026.03.03-15.33.35:986][  0]LogEditorDataStorage: Initialized
+[2026.03.03-15.33.36:010][  0]LogCore: Display: InsightsEditor module auto-connecting to local trace server...
+[2026.03.03-15.33.36:523][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.03.03-15.33.36:547][  0]SourceControl: Revision control is disabled
+[2026.03.03-15.33.36:547][  0]LogUnrealEdMisc: Loading editor; pre map load, took 569.538
+[2026.03.03-15.33.36:575][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.33.36:577][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.33.36:749][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1296.07 ms.
+[2026.03.03-15.33.36:775][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1319.70 ms.
+[2026.03.03-15.33.37:295][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-15.33.37:303][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2026.03.03-15.33.37:494][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2026.03.03-15.33.37:495][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Start
+[2026.03.03-15.33.37:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-15.33.37:750][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.03.03-15.33.37:752][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-15.33.37:753][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.543ms to complete.
+[2026.03.03-15.33.37:976][  0]LogUnrealEdMisc: Total Editor Startup Time, took 570.967
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Total job queries 21,125, among them cache hits 5,012 (23.73%), DDC hits 13,072 (61.88%), Duplicates 1,156 (5.47%)
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Tracking 14,957 distinct input hashes that result in 14,038 distinct outputs (93.86%)
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: RAM used: 223.04 MiB of 819.20 MiB budget. Usage: 27.23%
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Shaders Compiled: 1,828
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Jobs assigned 1,883, completed 1,828 (97.08%)
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Average time worker was idle: 1.79 s
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 180.54 s, longest 302.34 s
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Job execution time: average 14.65 s, max 197.89 s
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 200.59 s, max 320.31
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Shader code size: total 34.904 MiB, numShaders 1,828, average 19.552 KiB, min 1.646 KiB, max 52.509 KiB
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 470.26 s
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Jobs were issued in 232 batches (only local compilation was used), average 8.12 jobs/batch
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Average processing rate: 3.89 jobs/sec
+[2026.03.03-15.33.37:980][  0]LogShaderCompilers: Display: Total thread time: 2,489.414 s
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Total thread preprocess time: 973.249 s
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Percentage time preprocessing: 39.10%
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Effective parallelization: 5.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.661714
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                     FLumenRadianceCacheHardwareRayTracingRGS (compiled    8 times, average 3.11 sec, max 6.96 sec, min 1.95 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                                   FAmbientCubemapCompositePS (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled  156 times, average 2.84 sec, max 10.77 sec, min 0.99 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  136 times, average 2.80 sec, max 8.79 sec, min 0.65 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 2.59 sec, max 3.12 sec, min 2.33 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                         FLumenReflectionHardwareRayTracingCS - 22.42% of total time (compiled  304 times, average 1.84 sec, max 12.82 sec, min 0.58 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 17.77% of total time (compiled  156 times, average 2.84 sec, max 10.77 sec, min 0.99 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 16.64% of total time (compiled  478 times, average 0.87 sec, max 9.32 sec, min 0.29 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 15.27% of total time (compiled  136 times, average 2.80 sec, max 8.79 sec, min 0.65 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.07% of total time (compiled  120 times, average 1.05 sec, max 3.01 sec, min 0.57 sec)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: === Material stats ===
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Materials Translated:    135
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.34 s
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Material Translation Only: 0.13 s (37%)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2026.03.03-15.33.37:981][  0]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.33.38:062][  0]LogCEF3Utils: Warning: Failed to backup cef3.log
+[2026.03.03-15.33.38:161][  0]LogWebBrowser: Loaded CEF3 version 128.4.13.3057 from C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/ThirdParty/CEF3/Win64/128.4.13+ge76af7e+chromium-128.0.6613.138
+[2026.03.03-15.33.38:168][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.03.03-15.33.38:690][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/acarlisle26/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found directory: "C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation"
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/vr1/vr1.uproject",LastOpenTime=2025.09.05-14.07.48)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/test/test.uproject",LastOpenTime=2025.09.16-14.14.31)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal/The-Lab-Below/The-Lab-Below gethub 5.6/The_Lab_Below.uproject",LastOpenTime=2025.09.17-14.36.00)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal/Audrey 5.6/Audrey.uproject",LastOpenTime=2025.09.22-14.09.56)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/Documents/GitHub/Project-win-fr2/ProjectWin.uproject",LastOpenTime=2025.09.23-14.22.52)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr/ProjectWinf/ProjectWin.uproject",LastOpenTime=2025.09.24-13.59.40)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr/ProjectWin.uproject",LastOpenTime=2025.09.24-14.06.00)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr2/unreal/ProjectWin.uproject",LastOpenTime=2026.01.15-15.37.54)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/school/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.01.20-16.38.25)" in recently opened files
+[2026.03.03-15.33.38:691][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.03.03-15.33.35)" in recently opened files
+[2026.03.03-15.33.38:692][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.03.03-15.33.38:696][  0]LogProjectBrowser: Looking for projects...
+[2026.03.03-15.33.38:696][  0]LogProjectBrowser: Found Engine Installation "5.7"(C:/Program Files/Epic Games/UE_5.7)
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/acarlisle26/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Found directory: "C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation"
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/vr1/vr1.uproject",LastOpenTime=2025.09.05-14.07.48)" in recently opened files
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/test/test.uproject",LastOpenTime=2025.09.16-14.14.31)" in recently opened files
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal/The-Lab-Below/The-Lab-Below gethub 5.6/The_Lab_Below.uproject",LastOpenTime=2025.09.17-14.36.00)" in recently opened files
+[2026.03.03-15.33.38:696][  0]LogDesktopPlatform: Found project "(ProjectName="D:/Unreal/Audrey 5.6/Audrey.uproject",LastOpenTime=2025.09.22-14.09.56)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/Documents/GitHub/Project-win-fr2/ProjectWin.uproject",LastOpenTime=2025.09.23-14.22.52)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr/ProjectWinf/ProjectWin.uproject",LastOpenTime=2025.09.24-13.59.40)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr/ProjectWin.uproject",LastOpenTime=2025.09.24-14.06.00)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/Project-win-fr2/unreal/ProjectWin.uproject",LastOpenTime=2026.01.15-15.37.54)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/school/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.01.20-16.38.25)" in recently opened files
+[2026.03.03-15.33.38:697][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.03.03-15.33.35)" in recently opened files
+[2026.03.03-15.33.38:698][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.03.03-15.33.38:699][  0]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2026.03.03-15.33.38:711][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2026.03.03-15.33.39:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-15.33.39:680][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-15.33.39:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-15.33.40:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-15.33.40:392][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:393][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:395][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:396][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:396][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:398][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:402][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:405][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:407][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:408][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:411][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:412][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:415][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:416][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:417][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:418][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.40:420][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.03-15.33.40:421][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.7/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.03.03-15.33.41:865][  0]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.03.03-15.33.42:752][  0]LogToolMenus: Warning: Menu section not found: 'Compile' for insert: 'EditorPerf'
+[2026.03.03-15.33.42:794][  0]LogSlate: Took 0.001683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.03-15.33.42:802][  0]LogSlate: Took 0.001272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.03-15.33.42:809][  0]LogSlate: Took 0.001804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.03-15.33.42:811][  0]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.03-15.33.42:987][  0]LogSlate: Took 0.002257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.03-15.33.43:071][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-15.33.43:620][  0]LogStall: Startup...
+[2026.03.03-15.33.43:632][  0]LogStall: Startup complete.
+[2026.03.03-15.33.43:650][  0]LogLoad: (Engine Initialization) Total time: 576.64 seconds
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Total job queries 21,127, among them cache hits 5,012 (23.72%), DDC hits 13,074 (61.88%), Duplicates 1,156 (5.47%)
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Tracking 14,959 distinct input hashes that result in 14,043 distinct outputs (93.88%)
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: RAM used: 223.07 MiB of 819.20 MiB budget. Usage: 27.23%
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Shaders Compiled: 1,835
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Jobs assigned 1,884, completed 1,835 (97.40%)
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Average time worker was idle: 1.78 s
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 180.45 s, longest 302.34 s
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Job execution time: average 14.64 s, max 197.89 s
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 199.87 s, max 320.31
+[2026.03.03-15.33.45:031][  0]LogShaderCompilers: Display: Shader code size: total 34.946 MiB, numShaders 1,835, average 19.501 KiB, min 1.646 KiB, max 52.509 KiB
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 483.66 s
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Jobs were issued in 233 batches (only local compilation was used), average 8.09 jobs/batch
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Average processing rate: 3.79 jobs/sec
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Total thread time: 2,499.787 s
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Total thread preprocess time: 974.112 s
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Percentage time preprocessing: 38.97%
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Effective parallelization: 5.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.646062
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    1 times, average 3.79 sec, max 3.79 sec, min 3.79 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                     FLumenRadianceCacheHardwareRayTracingRGS (compiled    8 times, average 3.11 sec, max 6.96 sec, min 1.95 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                                   FAmbientCubemapCompositePS (compiled    1 times, average 3.06 sec, max 3.06 sec, min 3.06 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled  156 times, average 2.84 sec, max 10.77 sec, min 0.99 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  136 times, average 2.80 sec, max 8.79 sec, min 0.65 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                         FLumenReflectionHardwareRayTracingCS - 22.33% of total time (compiled  304 times, average 1.84 sec, max 12.82 sec, min 0.58 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 17.70% of total time (compiled  156 times, average 2.84 sec, max 10.77 sec, min 0.99 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 16.57% of total time (compiled  478 times, average 0.87 sec, max 9.32 sec, min 0.29 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 15.21% of total time (compiled  136 times, average 2.80 sec, max 8.79 sec, min 0.65 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.05% of total time (compiled  120 times, average 1.05 sec, max 3.01 sec, min 0.57 sec)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: === Material stats ===
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Materials Translated:    136
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Material Translation Only: 0.13 s (37%)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2026.03.03-15.33.45:032][  0]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.33.46:010][  0]LogContentStreaming: Texture pool size now 800 MB
+[2026.03.03-15.33.46:010][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.03.03-15.33.46:083][  0]LogZenServiceInstance: Display: Launching zen utility 'C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/Win64/zen.exe service status'.
+[2026.03.03-15.33.48:121][  0]LogZenServiceInstance: Display: Zen utility process has been running for 2.0 seconds without completing, still waiting...
+[2026.03.03-15.33.49:120][  0]LogZenServiceInstance: Display: Zen utility process has been running for 3.0 seconds without completing, still waiting...
+[2026.03.03-15.33.50:120][  0]LogZenServiceInstance: Display: Launching zen utility 'C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/Win64/zen.exe service status'.
+[2026.03.03-15.33.50:971][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.33.50:992][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py... started...
+[2026.03.03-15.33.51:079][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py... took 87.103 ms
+[2026.03.03-15.33.51:079][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.03.03-15.33.51:131][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.03.03-15.33.51:135][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 55.160 ms (total: 142.263 ms)
+[2026.03.03-15.33.52:077][  1]LogAssetRegistry: AssetRegistryGather time 3.3906s: AssetDataDiscovery 0.9142s, AssetDataGather 1.1334s, StoreResults 1.3430s. Wall time 569.5740s.
+	NumCachedDirectories 1663. NumUncachedDirectories 66. NumCachedFiles 8244. NumUncachedFiles 0.
+	BackgroundTickInterruptions 54.
+[2026.03.03-15.33.52:395][  1]LogAssetRegistry: Display: Starting OnFilesLoaded.Broadcast
+[2026.03.03-15.33.52:433][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.03.03-15.33.52:463][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2026.03.03-15.33.52:464][  1]LogAssetRegistry: Display: Completed OnFilesLoaded.Broadcast: -0.871s
+[2026.03.03-15.33.52:469][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2026.03.03-15.33.52:633][  1]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-15.33.54:038][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:185][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.03.03-15.33.55:278][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:278][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:278][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:296][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:296][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.55:297][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.33.57:258][  1]LogSourceControl: Uncontrolled asset discovery finished in 4.79024 seconds (Found 8220 uncontrolled assets)
+[2026.03.03-15.34.01:242][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.01:246][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.01:249][  1]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2026.03.03-15.34.01:608][  1]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.03.03-15.34.01:634][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.01:638][  1]LogStaticMesh: Built static mesh [0.11s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.03.03-15.34.01:676][  1]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.05:823][  1]LogMeshUtilities: Finished distance field build in 4.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, PhAT_FloorBox
+[2026.03.03-15.34.07:588][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/bp_GameInstanceF.bp_GameInstanceF
+[2026.03.03-15.34.08:076][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/dialogue/BP_dialogue.BP_dialogue
+[2026.03.03-15.34.08:182][  1]LogAssetRegistry: Display: Asset registry cache written as 72.1 MiB to ../../../../../../Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Intermediate/CachedAssetRegistry_*.bin
+[2026.03.03-15.34.08:315][  1]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/dialogue/lightpuzzle.lightpuzzle
+[2026.03.03-15.34.08:620][  1]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/dialogue/lightIntro.lightIntro
+[2026.03.03-15.34.08:862][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BP_clark.BP_clark
+[2026.03.03-15.34.12:864][  2]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.13:169][  2]LogSlate: Took 0.002010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.03-15.34.13:186][  2]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.13:186][  2]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.14:331][  3]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 46.091637
+[2026.03.03-15.34.14:354][  3]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.03.03-15.34.14:373][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46.414547
+[2026.03.03-15.34.14:887][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.03.03-15.34.15:333][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 47.366730
+[2026.03.03-15.34.15:338][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
+[2026.03.03-15.34.15:338][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47.366730, Update Interval: 321.938538
+[2026.03.03-15.34.16:606][ 34]LogShaderCompilers: Display: Job FDebugViewModePS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (31.294s)
+[2026.03.03-15.34.16:616][ 34]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.16:616][ 34]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.16:616][ 34]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.16:618][ 34]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.16:618][ 34]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.16:629][ 35]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:577][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.18:580][ 71]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.49:999][839]LogShaderCompilers: Display: Job TBasePassVSFNoLightMapPolicy(permutation 0, format PCD3D_SM6) compile time exceeded threshold (31.096s)
+[2026.03.03-15.34.50:283][843]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.52:430][884]LogShaderCompilers: Display: Job FLumenCardVS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (30.962s)
+[2026.03.03-15.34.52:433][884]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:727][960]LogShaderCompilers: Display: Job FLandscapePhysicalMaterialVS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (33.110s)
+[2026.03.03-15.34.56:727][960]LogShaderCompilers: Display: Job TBasePassPSFNoLightMapPolicy(permutation 0, format PCD3D_SM6) compile time exceeded threshold (31.416s)
+[2026.03.03-15.34.56:728][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:728][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:728][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:728][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:729][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:729][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.56:729][960]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.57:826][992]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.34.59:486][ 33]LogShaderCompilers: Display: Job FPathTracingMaterialCHS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (75.070s)
+[2026.03.03-15.34.59:516][ 33]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:888][ 83]LogShaderCompilers: Display: Job TMaterialCHSFNoLightMapPolicyFAnyHitShader(permutation 0, format PCD3D_SM6) compile time exceeded threshold (51.375s)
+[2026.03.03-15.35.01:896][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:896][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:896][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:896][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:896][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:932][ 83]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.01:948][ 84]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.02:001][ 85]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.02:209][ 87]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.20:168][531]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:355][543]LogShaderCompilers: Display: Job FPathTracingMaterialCHS_AHS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (78.053s)
+[2026.03.03-15.35.21:365][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][543]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.21:366][544]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.27:131][672]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.33:022][793]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.529 seconds, threshold is 0.300 s), will parallelize next time.
+[2026.03.03-15.35.45:907][ 90]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.35.59:275][311]LogShaderCompilers: Display: Job TShadowDepthVSVertexShadowDepth_VirtualShadowMap(permutation 0, format PCD3D_SM6) compile time exceeded threshold (37.595s)
+[2026.03.03-15.35.59:415][313]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.36.10:865][468]LogShaderCompilers: Display: Job FLumenCardPS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (48.338s)
+[2026.03.03-15.36.11:080][470]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.36.45:039][ 72]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.36.45:039][ 72]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-15.36.45:039][ 72]LogShaderCompilers: Display: Total job queries 21,141, among them cache hits 5,012 (23.71%), DDC hits 13,075 (61.85%), Duplicates 1,156 (5.47%)
+[2026.03.03-15.36.45:039][ 72]LogShaderCompilers: Display: Tracking 14,973 distinct input hashes that result in 14,066 distinct outputs (93.94%)
+[2026.03.03-15.36.45:039][ 72]LogShaderCompilers: Display: RAM used: 223.25 MiB of 819.20 MiB budget. Usage: 27.25%
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Shaders Compiled: 1,880
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Jobs assigned 1,898, completed 1,880 (99.05%)
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Average time worker was idle: 1.68 s
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Time job spent in pending queue: average 179.49 s, longest 302.34 s
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Job execution time: average 15.88 s, max 197.89 s
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Job life time (pending + execution): average 196.91 s, max 320.31
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Shader code size: total 35.331 MiB, numShaders 1,880, average 19.244 KiB, min 1.646 KiB, max 52.509 KiB
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 632.11 s
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Jobs were issued in 247 batches (only local compilation was used), average 7.68 jobs/batch
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Average processing rate: 2.97 jobs/sec
+[2026.03.03-15.36.45:040][ 72]LogShaderCompilers: Display: Total thread time: 3,157.345 s
+[2026.03.03-15.36.45:041][ 72]LogShaderCompilers: Display: Total thread preprocess time: 981.683 s
+[2026.03.03-15.36.45:041][ 72]LogShaderCompilers: Display: Percentage time preprocessing: 31.09%
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Effective parallelization: 4.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.624363
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 75.07 sec, max 75.07 sec, min 75.07 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 51.37 sec, max 51.37 sec, min 51.37 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 46.21 sec, max 78.05 sec, min 14.37 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 37.60 sec, max 37.60 sec, min 37.60 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 21.72 sec, max 21.72 sec, min 21.72 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                         FLumenReflectionHardwareRayTracingCS - 17.68% of total time (compiled  304 times, average 1.84 sec, max 12.82 sec, min 0.58 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 14.01% of total time (compiled  156 times, average 2.84 sec, max 10.77 sec, min 0.99 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 13.12% of total time (compiled  478 times, average 0.87 sec, max 9.32 sec, min 0.29 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 12.04% of total time (compiled  136 times, average 2.80 sec, max 8.79 sec, min 0.65 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display:                                               FHWRasterizeMS - 4.00% of total time (compiled  120 times, average 1.05 sec, max 3.01 sec, min 0.57 sec)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: === Material stats ===
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Materials Translated:    139
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Material Translation Only: 0.13 s (37%)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2026.03.03-15.36.45:045][ 72]LogShaderCompilers: Display: ================================================
+[2026.03.03-15.38.18:612][671]LogShaderCompilers: Display: Job FLumenCardVS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (169.037s)
+[2026.03.03-15.38.18:625][672]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.45:611][421]LogShaderCompilers: Display: Job FDepthOnlyPS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (174.151s)
+[2026.03.03-15.38.45:619][421]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.47:856][460]LogShaderCompilers: Display: Job TVelocityPS<EVelocityPassMode::Velocity_Standard>(permutation 0, format PCD3D_SM6) compile time exceeded threshold (70.165s)
+[2026.03.03-15.38.47:856][460]LogShaderCompilers: Display: Job TVelocityVS<EVelocityPassMode::Velocity_Standard>(permutation 0, format PCD3D_SM6) compile time exceeded threshold (152.100s)
+[2026.03.03-15.38.47:859][460]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:184][535]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:185][535]LogShaderCompilers: Display: Job FDebugViewModePS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (57.743s)
+[2026.03.03-15.38.50:185][535]LogShaderCompilers: Display: Job TMaterialCHSFNoLightMapPolicyFAnyHitShader(permutation 0, format PCD3D_SM6) compile time exceeded threshold (238.829s)
+[2026.03.03-15.38.50:188][535]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:188][535]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:192][535]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:196][536]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:196][536]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.50:196][536]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:555][776]LogShaderCompilers: Display: Job FPathTracingMaterialCHS_AHS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (77.810s)
+[2026.03.03-15.38.59:555][776]LogShaderCompilers: Display: Job TMaterialCHSFNoLightMapPolicyFAnyHitShader(permutation 0, format PCD3D_SM6) compile time exceeded threshold (207.416s)
+[2026.03.03-15.38.59:556][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:556][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:557][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:557][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:557][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:558][776]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.38.59:578][777]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.03:691][951]LogShaderCompilers: Display: Job TMaterialCHSFNoLightMapPolicy(permutation 0, format PCD3D_SM6) compile time exceeded threshold (197.412s)
+[2026.03.03-15.39.03:694][952]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.06:193][ 33]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.06:195][ 33]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.07:304][ 81]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.07:406][ 84]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.12:544][263]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2026.03.03-15.39.12:842][263]LogStall: Shutdown...
+[2026.03.03-15.39.12:853][263]LogStall: Shutdown complete.
+[2026.03.03-15.39.13:057][263]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.13:058][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.13:433][263]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.13:433][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.13:481][263]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.03.03-15.39.13:658][263]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.13:658][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.14:393][263]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.03-15.39.14:393][263]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.14:393][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.14:815][263]LogSlate: Window 'Genome_Tracker - Unreal Editor' being destroyed
+[2026.03.03-15.39.14:819][263]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.03-15.39.15:340][263]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2026.03.03-15.39.15:364][263]Cmd: QUIT_EDITOR
+[2026.03.03-15.39.15:364][264]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.03-15.39.15:421][264]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.03-15.39.15:424][264]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.03-15.39.15:424][264]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.03-15.39.15:425][264]LogWorld: UWorld::CleanupWorld for Start, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.15:426][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.15:517][264]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.03-15.39.15:521][264]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.03-15.39.15:536][264]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-15.39.15:536][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-15.39.15:547][264]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.03-15.39.15:556][264]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.03-15.39.15:558][264]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.03-15.39.15:558][264]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.03-15.39.15:558][264]LogAudio: Display: Audio Device unregistered from world 'Start'.
+[2026.03.03-15.39.15:558][264]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.03-15.39.15:559][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.03-15.39.15:570][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.03-15.39.15:620][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.03-15.39.15:622][264]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.03-15.39.15:668][264]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.03-15.39.15:668][264]LogExit: Preparing to exit.
+[2026.03.03-15.39.15:901][264]LogUObjectHash: Compacting FUObjectHashTables data took   9.31ms
+[2026.03.03-15.39.15:904][264]LogPython: Display: Object '/IKRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:904][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:904][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:904][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.15:905][264]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.03-15.39.17:155][264]LogEditorDataStorage: Deinitializing
+[2026.03.03-15.39.17:663][264]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.03-15.39.17:839][264]LogExit: Editor shut down
+[2026.03.03-15.39.17:862][264]LogExit: Transaction tracking system shut down
+[2026.03.03-15.39.18:694][264]LogExit: Object subsystem successfully closed.
+[2026.03.03-15.39.18:818][264]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.03-15.39.22:111][264]LogMemoryProfiler: Shutdown
+[2026.03.03-15.39.22:115][264]LogNetworkingProfiler: Shutdown
+[2026.03.03-15.39.22:115][264]LoadingProfiler: Shutdown
+[2026.03.03-15.39.22:117][264]LogTimingProfiler: Shutdown
+[2026.03.03-15.39.22:181][264]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.03-15.39.22:182][264]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.03-15.39.22:334][264]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/acarlisle26/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2026.03.03-15.39.22:836][264]LogFileManager: Warning: DeleteFile recovered during retry!
+[2026.03.03-15.39.23:371][264]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/recent-projects.
+[2026.03.03-15.39.28:455][264]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.03-15.39.28:507][264]RenderDocPlugin: plugin has been unloaded.
+[2026.03.03-15.39.28:609][264]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.03-15.39.28:609][264]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F4BD049-4BDB-341F-314A-8A8FA6BDAE69%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.1-48512491%2B%2B%2BUE5%2BRelease-5.7&UserID=15f45ca6452920c06f30a7a85f08a9b4%7C5796d1a7397746f0a5988d089c5be691%7C2a309b36-70e6-40f6-a33e-cb20145d7856&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.03-15.39.29:329][264]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.03-15.39.29:341][264]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.03-15.39.29:455][264]LogPakFile: Destroying PakPlatformFile
+[2026.03.03-15.39.29:871][264]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.03-15.39.29:945][264]LogExit: Exiting.
+[2026.03.03-15.39.30:108][264]Log file closed, 03/03/26 10:39:30
+>>>>>>> 8df17b9c7bab7e6a03b1df1ab9ac5db057bf97a0
