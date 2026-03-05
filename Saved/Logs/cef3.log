@@ -1,10 +1,8 @@
-[23692:25316:0304/185458.203:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23692:25316:0304/185459.431:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[23692:22460:0304/185459.503:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23692:25316:0304/185459.565:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23568:8196:0304/185506.503:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3BB6DC181DA3AD8B42A37F86583BA96E will be ignored
-[22056:25712:0304/185508.495:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22056:25712:0304/185508.828:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22056:25712:0304/185521.516:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[22056:25712:0304/185535.761:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23692:25316:0304/201032.894:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8416:6440:0305/100525.647:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8416:6440:0305/100525.848:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[8416:15976:0305/100526.057:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8416:6440:0305/100526.311:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9448:11448:0305/100545.690:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C7D7E3C4BFEC9537DCA26DDB55EAC636 will be ignored
+[8416:15976:0305/100548.728:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
+[8416:6440:0305/100548.742:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
+[8416:6440:0305/103828.190:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

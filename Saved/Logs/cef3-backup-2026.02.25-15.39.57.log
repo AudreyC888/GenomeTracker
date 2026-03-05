@@ -1,8 +1,0 @@
-[22420:14476:0225/100733.325:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22420:14476:0225/100733.521:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[22420:20652:0225/100733.714:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22420:14476:0225/100733.938:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20876:19416:0225/100747.786:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7CA1A5FDC31EAFE911EBDC5B3DCF7D51 will be ignored
-[22420:20652:0225/100749.768:ERROR:crx_installer.cc(957)] Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script. efaidnbmnnnibpcajpcglclefindmkaj 
-[22420:14476:0225/100749.778:WARNING:load_error_reporter.cc(72)] Extension error: Could not load javascript 'content_scripts/embeddedpdfs/embedded-pdf-touch-point-event-listener.js' for script.
-[22420:14476:0225/103957.496:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
