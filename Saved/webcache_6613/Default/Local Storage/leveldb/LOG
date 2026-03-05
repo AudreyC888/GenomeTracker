@@ -1,15 +1,3 @@
-2026/03/04-18:54:59.620 6638 Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/04-18:54:59.626 6638 Recovering log #23
-2026/03/04-18:54:59.630 6638 Reusing old log C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000023.log 
-2026/03/04-20:10:32.779 6790 Level-0 table #26: started
-2026/03/04-20:10:32.787 6790 Level-0 table #26: 62142 bytes OK
-2026/03/04-20:10:32.789 6790 Delete type=0 #23
-2026/03/04-20:10:32.791 6790 Compacting 4@0 + 1@1 files
-2026/03/04-20:10:32.799 6790 Generated table #27@0: 7 keys, 13296 bytes
-2026/03/04-20:10:32.800 6790 Compacted 4@0 + 1@1 files => 13296 bytes
-2026/03/04-20:10:32.800 6790 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/04-20:10:32.802 6790 Delete type=2 #14
-2026/03/04-20:10:32.802 6790 Delete type=2 #16
-2026/03/04-20:10:32.802 6790 Delete type=2 #19
-2026/03/04-20:10:32.802 6790 Delete type=2 #22
-2026/03/04-20:10:32.802 6790 Delete type=2 #26
+2026/03/05-10:05:26.481 6770 Reusing MANIFEST C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/05-10:05:26.497 6770 Recovering log #25
+2026/03/05-10:05:26.503 6770 Reusing old log C:\Users\acarlisle26\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000025.log 
