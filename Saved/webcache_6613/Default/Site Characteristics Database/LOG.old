@@ -1,5 +1,1 @@
-2026/03/07-19:58:25.146 698 Log #3: 58 ops saved to Table #4 OK
-2026/03/07-19:58:25.185 698 Archiving C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/03/07-19:58:25.189 698 Table #4: 58 entries OK
-2026/03/07-19:58:25.193 698 Archiving C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/07-19:58:25.203 698 **** Repaired leveldb C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 823 bytes. Some data may have been lost. ****
+2026/03/07-19:58:25.213 698 Reusing MANIFEST C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
