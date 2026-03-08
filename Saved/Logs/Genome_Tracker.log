@@ -1419,3 +1419,6 @@ Samplers Used: 2
 [2026.03.08-18.50.33:856][318]RenderDocPlugin: plugin has been unloaded.
 [2026.03.08-18.50.33:863][318]LogXGEController: Cleaning working directory: C:/Users/audre/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.03.08-18.50.33:898][318]LogPakFile: Destroying PakPlatformFile
+[2026.03.08-18.50.34:602][318]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.08-18.50.34:676][318]LogExit: Exiting.
+[2026.03.08-18.50.34:730][318]Log file closed, 03/08/26 14:50:34
