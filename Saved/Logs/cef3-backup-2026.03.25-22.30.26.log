@@ -1,0 +1,47 @@
+[28184:28188:0323/095832.656:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28184:28188:0323/095832.662:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[28184:19296:0323/095833.178:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28184:28188:0323/095833.426:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28184:24272:0323/095901.114:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:24272:0323/095901.119:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:24272:0323/095901.120:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:24272:0323/095901.121:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:28188:0323/095903.057:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[28184:17460:0323/095911.645:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:24272:0323/095918.412:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28184:24272:0323/095918.416:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5332:24564:0323/095919.476:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-47CBC8B2B13B2FB5EDAE9787F85BF1DF will be ignored
+[28184:17480:0323/095920.955:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28452:19748:0323/100247.787:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/100248.477:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/100257.117:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/100306.457:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28452:19748:0323/101847.665:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/101848.319:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/101901.311:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0323/101916.312:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28184:17480:0323/102230.261:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28184:17480:0323/102906.884:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28184:28188:0323/102907.716:ERROR:device_event_log_impl.cc(196)] [10:29:07.493] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28184:17480:0323/104309.291:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28184:17480:0323/130156.137:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28184:19296:0325/095744.889:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28452:27920:0325/095744.978:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28184:19296:0325/095745.210:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28452:16988:0325/095745.252:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28184:17480:0325/095815.052:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28452:19748:0325/095818.865:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/095819.632:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/095830.160:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/095841.496:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/103447.172:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/103447.786:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/103457.780:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28452:19748:0325/103511.483:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28184:17480:0325/104209.033:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28184:17480:0325/143639.819:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28452:19748:0325/182537.161:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28452:19748:0325/182537.811:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/182549.126:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28452:19748:0325/182600.828:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28184:28188:0325/183026.244:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
