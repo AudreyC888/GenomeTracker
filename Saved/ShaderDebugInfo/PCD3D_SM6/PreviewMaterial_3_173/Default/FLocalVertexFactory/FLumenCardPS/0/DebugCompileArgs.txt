@@ -1,1 +1,0 @@
-"C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Saved/ShaderDebugInfo/PCD3D_SM6/PreviewMaterial_3_17308887e63d7801/Default/FLocalVertexFactory/FLumenCardPS/0" 0 "DebugCompile" DebugCompile.in DebugCompile.out -DebugSourceFiles="LumenCardPixelShader.usf" -TimeToLive=0.0f -KeepInput

@@ -1,19 +1,0 @@
-[20952:31820:0326/091210.977:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20952:31820:0326/091210.981:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[20952:4716:0326/091211.162:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20952:31820:0326/091211.241:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20952:3784:0326/091220.815:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:3784:0326/091220.819:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:3784:0326/091220.822:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:3784:0326/091220.824:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:31820:0326/091221.172:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[20952:30680:0326/091224.269:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:30680:0326/091224.272:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20952:14796:0326/091224.276:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32316:13648:0326/091225.116:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5F8C94042F683AFB70423850520ED05F will be ignored
-[20952:24856:0326/091227.442:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[700:33212:0326/091425.946:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[700:33212:0326/091426.607:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[700:33212:0326/091439.566:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[700:33212:0326/091451.108:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20952:31820:0326/091533.007:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
