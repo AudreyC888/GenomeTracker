@@ -4,3 +4,4 @@
 [7292:14776:0326/155543.802:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
 [7292:14776:0326/155547.252:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
 [7292:14776:0326/155547.473:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14820:12444:0326/155609.625:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
