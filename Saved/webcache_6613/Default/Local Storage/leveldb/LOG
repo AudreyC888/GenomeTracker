@@ -1,3 +1,2 @@
-2026/03/26-16:05:09.901 52c4 Reusing MANIFEST C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/26-16:05:09.906 52c4 Recovering log #3
-2026/03/26-16:05:09.911 52c4 Reusing old log C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/26-23:17:56.536 2300 Creating DB C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/26-23:17:56.549 2300 Reusing MANIFEST C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

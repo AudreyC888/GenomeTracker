@@ -1,3 +1,2 @@
-2026/03/26-16:05:12.288 5b58 Reusing MANIFEST C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
-2026/03/26-16:05:12.288 5b58 Recovering log #3
-2026/03/26-16:05:12.288 5b58 Reusing old log C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+2026/03/26-23:17:58.593 2ac0 Creating DB C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
+2026/03/26-23:17:58.599 2ac0 Reusing MANIFEST C:\Users\audre\OneDrive\hs\GenomeTracker\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
