@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Blueprints/widgets/WD_Start.uasset",
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Maps/Audreys.umap",
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Maps/UI/Start.umap"
+			]
+		}
+	]
+}

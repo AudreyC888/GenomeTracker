@@ -1,0 +1,15 @@
+[21780:14724:0326/230530.935:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21780:8448:0326/230530.965:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21780:14724:0326/230530.976:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26872:27128:0326/230535.361:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-972AD8804ED8A9AD860E18021B2BC436 will be ignored
+[21780:4552:0326/230535.716:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[21780:14724:0326/230535.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21780:14724:0326/230535.845:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21780:14724:0326/230535.845:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21780:14724:0326/230535.845:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21780:4552:0326/230535.848:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11628:16212:0326/230537.570:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11628:16212:0326/230537.588:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11628:16212:0326/230549.371:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11628:16212:0326/230603.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[21780:14724:0326/230928.237:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

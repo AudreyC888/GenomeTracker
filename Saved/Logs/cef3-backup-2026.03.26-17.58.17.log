@@ -1,7 +1,0 @@
-[10936:18072:0326/135753.662:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10936:18072:0326/135753.663:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[10936:18924:0326/135753.728:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10936:18072:0326/135753.748:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15984:5972:0326/135803.026:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C9C2DCFCA44C7BE7E161EA6383305385 will be ignored
-[10936:14500:0326/135809.903:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[10936:18072:0326/135817.419:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
