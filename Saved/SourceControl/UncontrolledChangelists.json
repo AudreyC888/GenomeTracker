@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Blueprints/widgets/WD_Start.uasset",
 				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Maps/Audreys.umap",
-				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Maps/UI/Start.umap"
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Maps/UI/Start.umap",
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Materials/M_fogdense.uasset",
+				"C:/Users/audre/OneDrive/hs/GenomeTracker/Content/Materials/M_fog.uasset"
 			]
 		}
 	]

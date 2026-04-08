@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Genome_Tracker.cpp.obj": [
+			"Genome_Tracker.cpp.obj"
+		]
+	}
+}

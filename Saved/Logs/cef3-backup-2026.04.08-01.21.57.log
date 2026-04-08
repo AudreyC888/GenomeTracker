@@ -1,0 +1,10 @@
+[3200:10420:0407/211702.188:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3200:10420:0407/211702.526:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[3200:23452:0407/211702.557:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3200:10420:0407/211703.175:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22132:17732:0407/211711.089:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BB6F421CF584E65BD77428C8800B6F18 will be ignored
+[7820:22028:0407/211711.275:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7820:22028:0407/211711.293:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7820:22028:0407/211711.366:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[3200:23472:0407/211711.569:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[3200:10420:0407/211711.707:WARNING:browser_info.cc(345)] Returning a spec
