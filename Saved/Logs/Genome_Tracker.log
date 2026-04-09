@@ -1965,3 +1965,6 @@ Samplers Used: 2
 [2026.04.09-14.34.01:279][720]RenderDocPlugin: plugin has been unloaded.
 [2026.04.09-14.34.01:283][720]LogNFORDenoise: NFORDenoise function shutting down
 [2026.04.09-14.34.01:338][720]LogPakFile: Destroying PakPlatformFile
+[2026.04.09-14.34.02:262][720]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.09-14.34.02:329][720]LogExit: Exiting.
+[2026.04.09-14.34.02:396][720]Log file closed, 04/09/26 10:34:02
