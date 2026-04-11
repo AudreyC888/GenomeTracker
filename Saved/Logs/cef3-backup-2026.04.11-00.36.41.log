@@ -1,0 +1,16 @@
+[4832:32176:0410/100034.204:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4832:45424:0410/100034.829:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4832:32176:0410/100035.077:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14060:15828:0410/100058.510:ERROR:frame_impl.cc(537)] frame 5-D2726BD0D81B22618DAB9FA4FD3E2505 connection timeout
+[5896:8304:0410/100108.150:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[4832:12252:0410/100109.995:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4832:12252:0410/100112.176:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5896:8304:0410/100451.659:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5896:8304:0410/100451.691:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5896:8304:0410/100452.146:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5896:8304:0410/100452.146:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5896:8304:0410/100503.897:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5896:8304:0410/100507.250:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5896:8304:0410/100511.749:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5896:8304:0410/100518.261:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4832:32176:0410/102821.520:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
