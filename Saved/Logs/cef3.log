@@ -1,17 +1,29 @@
-[23228:22864:0412/181902.405:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23228:21660:0412/181902.448:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23228:22864:0412/181902.455:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23228:22460:0412/181904.138:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23228:22460:0412/181904.142:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23228:22460:0412/181904.144:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23228:22460:0412/181904.146:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23228:22460:0412/181904.424:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23228:22460:0412/181904.427:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6056:11128:0412/181907.151:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-268EEEC6D67696B24924DB19A8B4B7AB will be ignored
-[20572:6252:0412/181910.227:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20572:6252:0412/181910.889:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20572:6252:0412/181925.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20572:6252:0412/181935.469:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[23228:22864:0412/182045.227:ERROR:device_event_log_impl.cc(196)] [18:20:45.217] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[23228:22864:0412/195906.411:ERROR:device_event_log_impl.cc(196)] [19:59:06.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[23228:22864:0412/195914.889:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[44040:15132:0413/100208.875:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[44040:15132:0413/100208.888:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[44040:15132:0413/100209.214:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[44040:672:0413/100209.486:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[44040:15132:0413/100209.786:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18676:46916:0413/100242.773:ERROR:backend_impl.cc(989)] Critical error found -8
+[18676:46916:0413/100242.939:WARNING:storage_block-inl.h(138)] Failed data load.
+[18676:46916:0413/100242.939:WARNING:storage_block-inl.h(138)] Failed data load.
+[18676:46916:0413/100242.958:ERROR:entry_impl.cc(955)] Failed to save user data
+[44040:26132:0413/100243.340:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[43580:11592:0413/100244.902:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-64BD700B1B9920F8FA4A16598219A017 will be ignored
+[18676:27488:0413/100245.889:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
+[44040:26132:0413/100302.706:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18676:27488:0413/100637.561:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/100637.651:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/100650.342:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/100700.627:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18676:27488:0413/101037.553:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101037.588:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101046.155:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101059.698:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18676:27488:0413/101322.419:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18676:27488:0413/101323.099:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18676:27488:0413/101332.761:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18676:27488:0413/101347.102:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101721.238:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101721.268:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18676:27488:0413/101734.976:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44040:15132:0413/102039.787:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
