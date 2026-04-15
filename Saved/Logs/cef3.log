@@ -17,3 +17,4 @@
 [42764:44580:0415/102230.492:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
 [42764:44580:0415/102242.304:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
 [13216:25224:0415/102409.588:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13216:25224:0415/103407.489:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
