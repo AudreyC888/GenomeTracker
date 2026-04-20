@@ -1039,3 +1039,61 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-14.32.49:235][  0]LogStylusInput: Wintab driver is not available; Wintab interface will be not be initialized.
 [2026.04.20-14.32.49:285][  0]LogUObjectArray: 43770 objects as part of root set at end of initial load.
 [2026.04.20-14.32.49:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.04.20-14.32.49:809][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MeshModelingToolsExp.BakeMultiMeshDetailProperties. Time(ms): 3.2
+[2026.04.20-14.32.49:925][  0]LogEngine: Initializing Engine...
+[2026.04.20-14.32.50:152][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.04.20-14.32.50:843][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.04.20-14.32.50:873][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.04.20-14.32.50:900][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.20-14.32.50:922][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.04.20-14.32.50:922][  0]LogInit: Texture streaming: Enabled
+[2026.04.20-14.32.50:942][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.7.4-51494982+++UE5+Release-5.7 )
+[2026.04.20-14.32.50:945][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.04.20-14.32.50:960][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.04.20-14.32.50:961][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.04.20-14.32.50:962][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.04.20-14.32.50:962][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.04.20-14.32.50:962][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.32.50:963][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.32.50:963][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.32.50:963][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.32.50:963][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.32.50:963][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.32.50:987][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.32.51:003][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Qualcomm(R) Aqstic(TM) Audio Adapter Device)'
+[2026.04.20-14.32.51:004][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (Qualcomm(R) Aqstic(TM) ACX Static Endpoints Audio Device)'
+[2026.04.20-14.32.51:005][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Qualcomm(R) Aqstic(TM) Audio Adapter Device)'
+[2026.04.20-14.32.51:005][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (Qualcomm(R) Aqstic(TM) ACX Static Endpoints Audio Device)'
+[2026.04.20-14.32.51:005][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Qualcomm(R) Aqstic(TM) Audio Adapter Device)'
+[2026.04.20-14.32.51:005][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (Qualcomm(R) Aqstic(TM) ACX Static Endpoints Audio Device)'
+[2026.04.20-14.32.51:221][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Qualcomm(R) Aqstic(TM) Audio Adapter Device)
+[2026.04.20-14.32.51:223][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.32.51:227][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.32.51:227][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.32.51:229][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.20-14.32.51:229][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.20-14.32.51:232][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.20-14.32.51:232][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.04.20-14.32.51:232][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.04.20-14.32.51:233][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.04.20-14.32.51:233][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.04.20-14.32.51:244][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.04.20-14.32.51:250][  0]LogInit: Undo buffer set to 256 MB
+[2026.04.20-14.32.51:250][  0]LogInit: Transaction tracking system initialized
+[2026.04.20-14.32.51:270][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-14.32.51:422][  0]LocalizationService: Localization service is disabled
+[2026.04.20-14.32.51:674][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.04.20-14.32.51:857][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/DataValidation.PackageFileValidator
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.32.51:885][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2026.04.20-14.32.51:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Content/' took 0.03s
