@@ -1097,3 +1097,47 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-14.32.51:884][  0]LogContentValidation: Adding native validator /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.20-14.32.51:885][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
 [2026.04.20-14.32.51:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Content/' took 0.03s
+[2026.04.20-14.32.52:020][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.04.20-14.32.52:020][  0]LogPython: Using Python 3.11.8
+[2026.04.20-14.32.52:103][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.04.20-14.32.53:655][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.04.20-14.32.53:846][  0]LogEditorDataStorage: Initializing
+[2026.04.20-14.32.53:870][  0]LogEditorDataStorage: Initialized
+[2026.04.20-14.32.53:880][  0]LogCore: Display: InsightsEditor module auto-connecting to local trace server...
+[2026.04.20-14.32.54:041][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.04.20-14.32.54:048][  0]SourceControl: Revision control is disabled
+[2026.04.20-14.32.54:048][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.063
+[2026.04.20-14.32.54:049][  0]Cmd: MAP LOAD FILE="../../../../../../Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Content/Maps/UI/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.20-14.32.54:054][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.32.54:054][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.32.54:084][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-14.32.54:088][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.04.20-14.32.54:173][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2026.04.20-14.32.54:173][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Start
+[2026.04.20-14.32.54:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.20-14.32.54:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.20-14.32.54:211][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.20-14.32.54:212][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2026.04.20-14.32.54:248][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.264
+[2026.04.20-14.32.54:365][  0]LogWebBrowser: Loaded CEF3 version 128.4.13.3057 from C:/Program Files/Epic Games/UE_5.7/Engine/Binaries/ThirdParty/CEF3/Win64/128.4.13+ge76af7e+chromium-128.0.6613.138
+[2026.04.20-14.32.54:369][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/audre/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.03.08-01.21.00)" in recently opened files
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive/hs/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.04.08-14.22.15)" in recently opened files
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/genome tracker/Genome_Tracker.uproject",LastOpenTime=2026.04.20-14.01.26)" in recently opened files
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.04.20-14.32.51)" in recently opened files
+[2026.04.20-14.32.54:724][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.04.20-14.32.54:728][  0]LogProjectBrowser: Looking for projects...
+[2026.04.20-14.32.54:728][  0]LogProjectBrowser: Found Engine Installation "5.7"(C:/Program Files/Epic Games/UE_5.7)
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/audre/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.03.08-01.21.00)" in recently opened files
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive/hs/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.04.08-14.22.15)" in recently opened files
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/genome tracker/Genome_Tracker.uproject",LastOpenTime=2026.04.20-14.01.26)" in recently opened files
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Found project "(ProjectName="C:/Users/audre/OneDrive - University of Pittsburgh/hs/GenomeTracker/Genome_Tracker.uproject",LastOpenTime=2026.04.20-14.32.51)" in recently opened files
+[2026.04.20-14.32.54:728][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.04.20-14.32.54:729][  0]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2026.04.20-14.32.54:739][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
