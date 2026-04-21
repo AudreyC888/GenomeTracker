@@ -1,15 +1,39 @@
-[20264:24496:0420/193313.546:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20264:26032:0420/193313.788:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20264:24496:0420/193313.913:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20264:16076:0420/193317.761:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20264:16076:0420/193317.764:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20264:16076:0420/193317.765:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20264:16076:0420/193317.766:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20264:16076:0420/193320.178:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20264:16076:0420/193320.181:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26652:1852:0420/193320.521:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DFCAB1B6154DA10F2C70132301D1A6C5 will be ignored
-[6712:8404:0420/193323.058:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[6712:8404:0420/193323.078:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[6712:8404:0420/193334.840:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[6712:8404:0420/193346.025:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20264:24496:0420/202728.709:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29976:7440:0421/100055.623:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29976:7440:0421/100055.784:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[29976:21164:0421/100055.917:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29976:7440:0421/100056.002:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26880:29512:0421/100123.226:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-53E1EFC35164AC3E5E355E969E0D453B will be ignored
+[17068:16740:0421/100123.242:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[17068:16740:0421/100123.253:ERROR:backend_impl.cc(989)] Critical error found -8
+[17068:16740:0421/100123.254:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.254:ERROR:entry_impl.cc(1029)] No file for c103000a
+[17068:16740:0421/100123.256:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.596:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.596:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.604:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.604:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.619:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.619:WARNING:storage_block-inl.h(138)] Failed data load.
+[17068:16740:0421/100123.621:ERROR:entry_impl.cc(955)] Failed to save user data
+[17068:16740:0421/100123.625:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[17068:16740:0421/100123.625:ERROR:backend_impl.cc(1904)] Corrupt Index file
+[17068:19096:0421/100123.882:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17068:19096:0421/100123.895:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29976:21860:0421/100124.050:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17068:19096:0421/100124.078:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17068:19096:0421/100124.084:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29976:21860:0421/100129.325:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17068:19096:0421/100133.290:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17068:19096:0421/100136.649:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17068:19096:0421/100147.103:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17068:19096:0421/100148.873:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[29976:7440:0421/100311.724:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
