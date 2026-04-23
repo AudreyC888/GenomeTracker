@@ -1,23 +1,35 @@
-[8728:27048:0422/101828.983:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8728:27048:0422/101828.992:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[8728:12404:0422/101829.581:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8728:27048:0422/101829.808:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22280:27848:0422/101858.587:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DDD17D2F060EF071603A75D5E236CDF4 will be ignored
-[8728:22828:0422/101859.689:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[23896:30716:0422/102257.255:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102257.258:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102257.429:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102257.441:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102314.073:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102314.075:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102323.059:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/102326.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103456.566:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103456.566:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103456.616:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103456.731:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[23896:30716:0422/103504.222:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[23896:30716:0422/103511.288:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103517.394:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[23896:30716:0422/103526.540:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[8728:27048:0422/104505.500:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30912:11188:0422/110626.281:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30912:11188:0422/110626.361:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[30912:11188:0422/110626.382:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/110626.539:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:3260:0422/110626.566:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30912:11188:0422/110626.656:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30912:11188:0422/110642.284:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/110642.284:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/110644.253:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[30912:29056:0422/110645.232:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/110646.251:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/110647.277:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[13144:28140:0422/110647.291:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3153A66FC1AF5F5EC482AEBE33A35EAF will be ignored
+[30912:29056:0422/110647.900:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[24012:27740:0422/110648.173:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110648.175:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110648.317:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110648.318:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30912:19528:0422/110648.352:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24012:27740:0422/110656.213:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110656.238:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110713.433:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/110713.448:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112446.651:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112446.652:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112447.323:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112447.386:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112459.322:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112459.338:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24012:27740:0422/112511.991:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[24012:27740:0422/112512.977:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30912:20484:0422/113327.842:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:20484:0422/113327.842:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:20484:0422/113327.843:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[30912:11188:0422/113327.848:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
