@@ -1,0 +1,63 @@
+[4416:22236:0424/102534.896:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4416:26400:0424/102535.060:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4416:22236:0424/102535.098:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4416:21268:0424/102551.277:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[4416:22236:0424/102551.625:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102552.565:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102552.852:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102554.475:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102554.481:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.135:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.482:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.488:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.806:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[6804:26032:0424/102555.812:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-478DB249BCB41A1632CD99C9051AE0C1 will be ignored
+[4416:22236:0424/102555.813:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102555.818:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102556.141:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102556.145:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[26520:8280:0424/102556.591:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[4416:22236:0424/102556.811:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102557.184:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[26520:8280:0424/102557.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[4416:11472:0424/102557.803:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26520:8280:0424/102557.838:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4416:22236:0424/102558.136:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[26520:8280:0424/102558.153:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4416:22236:0424/102558.491:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102558.811:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102605.844:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[26520:8280:0424/102609.786:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26520:8280:0424/102609.795:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26520:8280:0424/102618.611:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26520:8280:0424/102620.860:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[4416:22236:0424/102702.895:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102735.167:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102735.382:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/102833.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[4416:22236:0424/104119.530:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.533:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.539:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.541:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.541:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.543:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.554:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.559:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:17596:0424/104119.626:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:31376:0424/104119.713:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4416:22236:0424/104119.742:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

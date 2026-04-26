@@ -1,63 +1,20 @@
-[4416:22236:0424/102534.896:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4416:26400:0424/102535.060:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4416:22236:0424/102535.098:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4416:21268:0424/102551.277:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[4416:22236:0424/102551.625:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102552.565:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102552.852:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102554.475:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102554.481:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.135:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.482:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.488:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.806:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[6804:26032:0424/102555.812:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-478DB249BCB41A1632CD99C9051AE0C1 will be ignored
-[4416:22236:0424/102555.813:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.817:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102555.818:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102556.141:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102556.145:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[26520:8280:0424/102556.591:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
-[4416:22236:0424/102556.811:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102557.177:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102557.184:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[26520:8280:0424/102557.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[4416:11472:0424/102557.803:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[26520:8280:0424/102557.838:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[4416:22236:0424/102558.136:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[26520:8280:0424/102558.153:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[4416:22236:0424/102558.491:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102558.811:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102605.844:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[26520:8280:0424/102609.786:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[26520:8280:0424/102609.795:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[26520:8280:0424/102618.611:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[26520:8280:0424/102620.860:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[4416:22236:0424/102702.895:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102735.167:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102735.382:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/102833.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4416:22236:0424/104119.530:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.533:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.539:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.540:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.541:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.541:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.542:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.543:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.554:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.559:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:17596:0424/104119.626:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:31376:0424/104119.713:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
-[4416:22236:0424/104119.742:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17792:8488:0425/202004.141:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17792:8488:0425/202004.219:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[17792:6820:0425/202004.290:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17792:8488:0425/202004.352:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17792:10368:0425/202007.024:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17792:10368:0425/202007.027:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17792:10368:0425/202007.030:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17792:10368:0425/202007.032:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17792:10368:0425/202009.503:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7412:14008:0425/202009.507:ERROR:backend_impl.cc(989)] Critical error found -8
+[7412:14008:0425/202009.507:ERROR:entry_impl.cc(1029)] No file for b2020000
+[7412:14008:0425/202009.507:WARNING:storage_block-inl.h(138)] Failed data load.
+[17792:10368:0425/202009.508:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7184:9936:0425/202009.902:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-615F38559EF002FC0244B9AB3D8B4605 will be ignored
+[7412:13660:0425/202012.784:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7412:13660:0425/202013.448:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7412:13660:0425/202027.786:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7412:13660:0425/202039.452:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17792:8488:0425/202914.401:ERROR:device_event_log_impl.cc(196)] [20:29:14.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17792:8488:0425/212104.186:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
