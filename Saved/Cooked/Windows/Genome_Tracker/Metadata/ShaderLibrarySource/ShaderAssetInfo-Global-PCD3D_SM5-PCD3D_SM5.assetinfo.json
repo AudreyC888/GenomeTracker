@@ -1256,19 +1256,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D3D38BA602F43C0A10A48751DEC67699396BEF2D",
-			"Assets": [
-				"None"
-			]
-		},
-		{
 			"ShaderMapHash": "BA01B1A62D4CDC3C97B034B7E1407C04082C0F8A",
-			"Assets": [
-				"None"
-			]
-		},
-		{
-			"ShaderMapHash": "E0EEBEA65E67AB755D66227FCFC8AE64F25A4ED9",
 			"Assets": [
 				"None"
 			]
@@ -1719,12 +1707,6 @@
 		},
 		{
 			"ShaderMapHash": "942E62D541553513A5CF170AEE38B258DF1DE5AF",
-			"Assets": [
-				"None"
-			]
-		},
-		{
-			"ShaderMapHash": "046A17D6EC3EA2985D3664AABAF8467392289B82",
 			"Assets": [
 				"None"
 			]

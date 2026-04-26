@@ -136,7 +136,6 @@
 		{
 			"ShaderMapHash": "0BFF8559EF20C74F44B859C2DBA99C65CCD54FC9",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
@@ -191,7 +190,6 @@
 		{
 			"ShaderMapHash": "C7FFE07058B92AAF7383C4BB08C6314E70605271",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -469,6 +467,12 @@
 			"ShaderMapHash": "E03B8BD1E67889BE96385CE2F7B4C98CB4B5E801",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "DBDD66D973FBE1FB01D3F0938F906232A6C15B88",
+			"Assets": [
+				"/Game/Materials/main"
 			]
 		},
 		{

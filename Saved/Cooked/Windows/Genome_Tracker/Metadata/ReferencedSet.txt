@@ -282,6 +282,8 @@
 /game/blueprints/dialogue/bp_interact
 /game/blueprints/dialogue/ia_interactf
 /game/blueprints/widgets/wd_start
+/game/characters/main
+/game/characters/main_physicsasset
 /game/characters/mannequins/anims/unarmed/bs_idle_walk_run
 /game/characters/mannequins/anims/unarmed/jog/mf_unarmed_jog_bwd
 /game/characters/mannequins/anims/unarmed/jog/mf_unarmed_jog_bwd_left
@@ -306,11 +308,8 @@
 /game/characters/mannequins/materials/m_mannequin
 /game/characters/mannequins/materials/manny/mi_manny_01_new
 /game/characters/mannequins/materials/manny/mi_manny_02_new
-/game/characters/mannequins/materials/quinn/mi_quinn_01
-/game/characters/mannequins/materials/quinn/mi_quinn_02
 /game/characters/mannequins/meshes/sk_mannequin
 /game/characters/mannequins/meshes/skm_manny_simple
-/game/characters/mannequins/meshes/skm_quinn_simple
 /game/characters/mannequins/rigs/cr_mannequin_footik
 /game/characters/mannequins/rigs/pa_mannequin
 /game/characters/mannequins/textures/manny/t_manny_01_bn
@@ -319,12 +318,6 @@
 /game/characters/mannequins/textures/manny/t_manny_02_bn
 /game/characters/mannequins/textures/manny/t_manny_02_d
 /game/characters/mannequins/textures/manny/t_manny_02_mra
-/game/characters/mannequins/textures/quinn/t_quinn_01_d
-/game/characters/mannequins/textures/quinn/t_quinn_01_mra
-/game/characters/mannequins/textures/quinn/t_quinn_01_n
-/game/characters/mannequins/textures/quinn/t_quinn_02_d
-/game/characters/mannequins/textures/quinn/t_quinn_02_mra
-/game/characters/mannequins/textures/quinn/t_quinn_02_n
 /game/characters/mannequins/textures/shared/t_ue_logo_m
 /game/fonts/orbitron/static/orbitron-medium
 /game/fonts/orbitron/static/orbitron-medium_font
@@ -342,7 +335,9 @@
 /game/input/touch/ui_touchsimple
 /game/maps/ui/start
 /game/materials/camo
+/game/materials/main
 /game/materials/mpc_hidden
+/game/materials/textures/tfgpc
 /game/thirdperson/blueprints/bp_thirdpersoncharacter
 /game/thirdperson/blueprints/bp_thirdpersongamemode
 /game/thirdperson/blueprints/bp_thirdpersonplayercontroller

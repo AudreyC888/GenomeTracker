@@ -62,7 +62,7 @@
 #define UBT_COMPILED_ARCHITECTURE x64
 #define UE_APP_NAME "UnrealGame"
 #define UE_WARNINGS_AS_ERRORS 0
-#define UE_ENGINE_DIRECTORY "../../../../../../../Program Files/Epic Games/UE_5.7/UE_5.7/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../../../../../../Program Files/Epic Games/UE_5.7/UE_5.7/Engine/"
 #define FORCE_ANSI_ALLOCATOR 0
 #define USE_MALLOC_BINNED2 1
 #define USE_MALLOC_BINNED3 0

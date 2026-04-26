@@ -69,7 +69,7 @@
 /DUBT_COMPILED_ARCHITECTURE=x64
 /DUE_APP_NAME="UnrealGame"
 /DUE_WARNINGS_AS_ERRORS=0
-/DUE_ENGINE_DIRECTORY="../../../../../../../Program Files/Epic Games/UE_5.7/UE_5.7/Engine/"
+/DUE_ENGINE_DIRECTORY="../../../../../../../../../Program Files/Epic Games/UE_5.7/UE_5.7/Engine/"
 /DFORCE_ANSI_ALLOCATOR=0
 /DUSE_MALLOC_BINNED2=1
 /DUSE_MALLOC_BINNED3=0
@@ -91,5 +91,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=Genome_Tracker
-/fo "C:/Users/audre/OneDrive/hs/GenomeTracker/Intermediate/Build/Win64/x64/Genome_Tracker/Development/Genome_Tracker.exe/Default.rc2.res"
+/fo "C:/Users/audre/OneDrive - West Allegheny School District/2d 3d animation/Unreal Projects/GitHub/new/Intermediate/Build/Win64/x64/Genome_Tracker/Development/Genome_Tracker.exe/Default.rc2.res"
 "../Build/Windows/Resources/Default.rc2"
