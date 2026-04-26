@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0C9508053B5B14883CBEA06447D3F5D80038F8DC",
+			"Assets": [
+				"/Game/Materials/lightbuilding3"
+			]
+		},
+		{
 			"ShaderMapHash": "9C36F40F8B345C83ECB49D7D7807E69B65FBCEE2",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
@@ -68,6 +74,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AFCBDD2B19C0F9E1E1B2DAFFF2C1D61B36712AD0",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_AutoMaterial_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "C441722CE7BD6B1B820AE91B5C5DDC2F98484B71",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Cover/MTL_MWAM_CoverRocks"
+			]
+		},
+		{
+			"ShaderMapHash": "5533962CE89BB6213755B6AD94687893B7567CC0",
+			"Assets": [
+				"/Game/Materials/CamoWall"
+			]
+		},
+		{
 			"ShaderMapHash": "155C6430A57CF60395A993EFF9B286FEDCCCF724",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -80,6 +104,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DDAB8A3B8BCE5428F64C2363B8DFC1E3AA2C40E2",
+			"Assets": [
+				"/Game/Materials/camolight1"
+			]
+		},
+		{
 			"ShaderMapHash": "F97DDF434730F4664456FE11ECAB7123ED1DF5A5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
@@ -89,6 +119,12 @@
 			"ShaderMapHash": "C600E248CB3C4AD698CC39D099C67FDB9176EFC8",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D457B64A4E9A049922C5D533C08874D110554274",
+			"Assets": [
+				"/Game/Materials/M_fog"
 			]
 		},
 		{
@@ -128,6 +164,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5D087957DD1129D1F8D77A2150E17CEB9752E60E",
+			"Assets": [
+				"/Game/Maps/Audreys"
+			]
+		},
+		{
 			"ShaderMapHash": "86BE325852107B64AB3461D48C0B4CB86C869E34",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -136,6 +178,7 @@
 		{
 			"ShaderMapHash": "0BFF8559EF20C74F44B859C2DBA99C65CCD54FC9",
 			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
@@ -149,6 +192,12 @@
 			"ShaderMapHash": "47FBBA5BB1EABAB21CF92E5F319B86281D542639",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "044FFA5F421A4F6DEEACF8645CB591AEC238F642",
+			"Assets": [
+				"/Game/Materials/camoalien"
 			]
 		},
 		{
@@ -188,8 +237,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1427E76FBF04A978680A111619EEBFAB731DBE82",
+			"Assets": [
+				"/Game/Materials/lightbuilding2"
+			]
+		},
+		{
 			"ShaderMapHash": "C7FFE07058B92AAF7383C4BB08C6314E70605271",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -221,6 +277,12 @@
 			"ShaderMapHash": "558C4F768C92AAE7B01017201124AF75B3B13183",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "183777796D83C2A8AAFBAD94FA6E4938A69488CA",
+			"Assets": [
+				"/Game/Materials/M_fogdense"
 			]
 		},
 		{
@@ -263,6 +325,18 @@
 			"ShaderMapHash": "E4FC3C7EA6E7A017AEA3AEA1B6748B8D397E4666",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D376B48048214D75E28118F001230D119C83C05F",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_FlatCol"
+			]
+		},
+		{
+			"ShaderMapHash": "11DBFF81C5F4B6F9CE5EBBC3CC3DC2FDF3E5D412",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
 			]
 		},
 		{
@@ -368,6 +442,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E467DBA99C777332CE7C08F111A494970F783B43",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_CoverFoliage_MASTER"
+			]
+		},
+		{
 			"ShaderMapHash": "8C8DC1AC71DD4A64CB76BFAD6E7CF6077298034B",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -410,6 +490,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C1B9BCB58E148AAC851A9B998E4FC1DC12BCBDCF",
+			"Assets": [
+				"/Game/Materials/grass"
+			]
+		},
+		{
 			"ShaderMapHash": "CD770EB7405BE314D96292ADF7B2D23D40AF96C6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -434,6 +520,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "15D609C0E487707ACECA452749EB0D718F5BA114",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Plants/MTL_MWAM_PlantsGrass"
+			]
+		},
+		{
 			"ShaderMapHash": "A5606EC2B228152878425900728B09831D446C45",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
@@ -443,6 +535,12 @@
 			"ShaderMapHash": "86416CC895F49726D87FED469DEFA87B1129A1F1",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "56C1A8CCF906C455A946F4FEE0A4CC516A0FE409",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
 			]
 		},
 		{
@@ -472,6 +570,8 @@
 		{
 			"ShaderMapHash": "DBDD66D973FBE1FB01D3F0938F906232A6C15B88",
 			"Assets": [
+				"/Game/Materials/levalien",
+				"/Game/Materials/lightalien",
 				"/Game/Materials/main"
 			]
 		},
@@ -479,6 +579,12 @@
 			"ShaderMapHash": "749A4EDE2AAA861ED0F183040FE6E04B9835CC5A",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "38A919DF8A0C3A233B17D259D9972E8F9EA6C8BC",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Cover/MTL_MWAM_CoverSnow"
 			]
 		},
 		{
@@ -506,6 +612,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3BB481E4776F2F6B7075392EE1024A2E65C1F2DC",
+			"Assets": [
+				"/Game/Materials/M_glass"
+			]
+		},
+		{
 			"ShaderMapHash": "A0823EE5F98092C1903F30DC31CD2F16F72F8480",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
@@ -521,6 +633,12 @@
 			"ShaderMapHash": "A7F7F1E563157DC92EABB0C9E16B828851D29709",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1064D0E696F24D3509BBFB367A79E904A2DBF60C",
+			"Assets": [
+				"/Game/Materials/camolight"
 			]
 		},
 		{
@@ -542,9 +660,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E5EF84EF5B2A50064C5C54D8A97C11C67C3EBAAC",
+			"Assets": [
+				"/Game/Materials/hiddenwall"
+			]
+		},
+		{
 			"ShaderMapHash": "30E4BBF3F72FFD8E78DFCE391881E04EC0953AA0",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AB8254F4C4E7763A804FD316BE27F85CCA020A55",
+			"Assets": [
+				"/Game/Materials/lightBuilding1"
 			]
 		},
 		{

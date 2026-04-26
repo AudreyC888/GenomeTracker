@@ -500,6 +500,8 @@ ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:bResampleForDevice:0=False
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:CacheSizeKB:0=65536
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:CompressionQualityModifier:0=1.000000
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D11TargetedShaderFormats:0=PCD3D_SM5
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D12TargetedShaderFormats:0=PCD3D_SM6
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:HighSampleRate:0=32000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:LowSampleRate:0=12000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MaxChunkSizeOverrideKB:0=0
@@ -565,7 +567,6 @@ ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreadsDuringGame:0=4
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ShaderCompilerCoreCountThreshold:0=12
-ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
@@ -861,6 +862,7 @@ ConfigSystem.Windows.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumS
 ConfigSystem.Windows.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.Windows.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.Windows.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForES31:0=true
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkan:0=true
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkanSM5:0=false
@@ -870,6 +872,7 @@ LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstance
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
+LocalIniFile.Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 LocalIniFile.Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=None
 LocalSingleIniFile.Android.../../../Engine/Config/Android/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=Android
 LocalSingleIniFile.Android.../../../Engine/Config/Android/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bCanChangeGamepadType:0=true
