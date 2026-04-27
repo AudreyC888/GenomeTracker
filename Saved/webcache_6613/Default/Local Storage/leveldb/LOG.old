@@ -1,3 +1,15 @@
-2026/04/26-20:37:17.344 675c Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/26-20:37:17.350 675c Recovering log #23
-2026/04/26-20:37:17.354 675c Reusing old log C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/000023.log 
+2026/04/26-21:42:03.632 6cc8 Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/26-21:42:03.637 6cc8 Recovering log #23
+2026/04/26-21:42:03.642 6cc8 Reusing old log C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/000023.log 
+2026/04/26-21:43:20.643 5adc Level-0 table #26: started
+2026/04/26-21:43:20.649 5adc Level-0 table #26: 62085 bytes OK
+2026/04/26-21:43:20.652 5adc Delete type=0 #23
+2026/04/26-21:43:20.653 5adc Compacting 4@0 + 1@1 files
+2026/04/26-21:43:20.658 5adc Generated table #27@0: 4 keys, 12775 bytes
+2026/04/26-21:43:20.659 5adc Compacted 4@0 + 1@1 files => 12775 bytes
+2026/04/26-21:43:20.659 5adc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/26-21:43:20.661 5adc Delete type=2 #14
+2026/04/26-21:43:20.661 5adc Delete type=2 #17
+2026/04/26-21:43:20.661 5adc Delete type=2 #20
+2026/04/26-21:43:20.661 5adc Delete type=2 #22
+2026/04/26-21:43:20.661 5adc Delete type=2 #26
