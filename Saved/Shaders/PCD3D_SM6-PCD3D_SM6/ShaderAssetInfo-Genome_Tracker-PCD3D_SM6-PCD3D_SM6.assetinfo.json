@@ -32,8 +32,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3EC4200C02BC4A3441FA3BCBE775BA0A55BF50C3",
+			"Assets": [
+				"/Game/Materials/levlight"
+			]
+		},
+		{
 			"ShaderMapHash": "55C8B80C3C6BA0D89559B07C5895B84F48E31FE8",
 			"Assets": [
+				"/Game/Materials/levB",
+				"/Game/Materials/levtexture",
 				"/Game/Materials/lightBuilding1"
 			]
 		},
@@ -372,12 +380,6 @@
 			"ShaderMapHash": "4AF0BA839A566EAD821FAC8087D5785DB514E087",
 			"Assets": [
 				"/HairStrands/Materials/HairDebugMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "23CC0C8602FE103FE36FF9FB4163FC74F40EAC39",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_FlatCol"
 			]
 		},
 		{

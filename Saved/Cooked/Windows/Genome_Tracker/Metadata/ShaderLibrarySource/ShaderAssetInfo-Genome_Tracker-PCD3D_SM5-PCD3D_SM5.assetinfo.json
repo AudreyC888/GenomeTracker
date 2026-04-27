@@ -32,6 +32,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9B8B2713B63AD48E19F01DA9A2DCC7045D4B465B",
+			"Assets": [
+				"/Game/Materials/levlight"
+			]
+		},
+		{
 			"ShaderMapHash": "631EF0158FC2356D00F5B9975DDAE4EE14724AD8",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -325,12 +331,6 @@
 			"ShaderMapHash": "E4FC3C7EA6E7A017AEA3AEA1B6748B8D397E4666",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D376B48048214D75E28118F001230D119C83C05F",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_FlatCol"
 			]
 		},
 		{
@@ -674,6 +674,8 @@
 		{
 			"ShaderMapHash": "AB8254F4C4E7763A804FD316BE27F85CCA020A55",
 			"Assets": [
+				"/Game/Materials/levB",
+				"/Game/Materials/levtexture",
 				"/Game/Materials/lightBuilding1"
 			]
 		},

@@ -335,13 +335,13 @@
 /game/characters/camo/camoc
 /game/characters/lev/alien2
 /game/characters/lev/alien2_physicsasset
+/game/characters/lev/levbuildig
 /game/characters/light/alien1
 /game/characters/light/alien1_physicsasset
 /game/characters/light/building1
 /game/characters/light/building2
 /game/characters/main
 /game/characters/main_physicsasset
-/game/characters/mannequins/anims/unarmed/abp_unarmed
 /game/characters/mannequins/anims/unarmed/bs_idle_walk_run
 /game/characters/mannequins/anims/unarmed/jog/mf_unarmed_jog_bwd
 /game/characters/mannequins/anims/unarmed/jog/mf_unarmed_jog_bwd_left
@@ -408,8 +408,6 @@
 /game/input/touch/bpi_touchinterface
 /game/input/touch/ui_thumbstick
 /game/input/touch/ui_touchsimple
-/game/levelprototyping/materials/m_flatcol
-/game/levelprototyping/materials/mi_defaultcolorway
 /game/maps/audreys
 /game/maps/ui/controls
 /game/maps/ui/endbad
@@ -424,6 +422,9 @@
 /game/materials/grass
 /game/materials/hiddenwall
 /game/materials/levalien
+/game/materials/levb
+/game/materials/levlight
+/game/materials/levtexture
 /game/materials/lightalien
 /game/materials/lightbuilding1
 /game/materials/lightbuilding2
@@ -435,6 +436,12 @@
 /game/materials/mpc_hidden
 /game/materials/textures/copilot_20260423_100641
 /game/materials/textures/copilot_20260423_101001
+/game/materials/textures/copilot_20260426_200523
+/game/materials/textures/copilot_20260426_200706
+/game/materials/textures/copilot_20260426_200835
+/game/materials/textures/copilot_20260426_201556
+/game/materials/textures/copilot_20260426_201720
+/game/materials/textures/copilot_20260426_201927
 /game/materials/textures/crystal_alien_archit
 /game/materials/textures/normal_map_from_bubb
 /game/materials/textures/roughness_map_from_b
