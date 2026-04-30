@@ -2421,3 +2421,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-14.09.27:628][445]LogNFORDenoise: NFORDenoise function shutting down
 [2026.04.30-14.09.27:640][445]LogXGEController: Cleaning working directory: C:/Users/audre/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.04.30-14.09.27:681][445]LogPakFile: Destroying PakPlatformFile
+[2026.04.30-14.09.28:778][445]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.30-14.09.28:890][445]LogExit: Exiting.
+[2026.04.30-14.09.28:971][445]Log file closed, 04/30/26 10:09:28
