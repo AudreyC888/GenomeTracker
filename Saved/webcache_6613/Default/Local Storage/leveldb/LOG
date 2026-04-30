@@ -1,3 +1,5 @@
-2026/04/29-17:57:31.649 6a3c Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/29-17:57:31.653 6a3c Recovering log #25
-2026/04/29-17:57:31.657 6a3c Reusing old log C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/000025.log 
+2026/04/29-20:22:43.028 4284 Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/29-20:22:43.033 4284 Recovering log #25
+2026/04/29-20:22:43.033 4284 Level-0 table #29: started
+2026/04/29-20:22:43.039 4284 Level-0 table #29: 66092 bytes OK
+2026/04/29-20:22:43.044 4284 Delete type=0 #25
