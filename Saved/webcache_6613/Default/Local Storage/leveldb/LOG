@@ -1,5 +1,6 @@
-2026/04/30-10:22:22.617 7120 Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/30-10:22:22.628 7120 Recovering log #30
-2026/04/30-10:22:22.629 7120 Level-0 table #32: started
-2026/04/30-10:22:22.638 7120 Level-0 table #32: 70831 bytes OK
-2026/04/30-10:22:22.645 7120 Delete type=0 #30
+2026/04/30-10:29:40.870 8774 Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/30-10:29:40.880 8774 Recovering log #33
+2026/04/30-10:29:40.888 8774 Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000033.log 
+2026/04/30-10:32:57.321 81c4 Level-0 table #36: started
+2026/04/30-10:32:57.341 81c4 Level-0 table #36: 75588 bytes OK
+2026/04/30-10:32:57.345 81c4 Delete type=0 #33

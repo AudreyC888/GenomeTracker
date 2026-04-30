@@ -1,7 +1,16 @@
-[26424:7884:0430/102222.346:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[26424:9888:0430/102222.449:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[26424:7884:0430/102222.473:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19264:26892:0430/102236.888:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA0C4686004F703F260634652425FE30 will be ignored
-[26424:10672:0430/102246.399:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[26424:10672:0430/102247.445:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[26424:7884:0430/102635.942:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[34056:35036:0430/102940.563:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[34056:35036:0430/102940.566:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[34056:29648:0430/102940.654:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[34056:35036:0430/102940.675:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21144:20960:0430/102953.671:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E54921F26D58228A7E79EBB4E7529ED7 will be ignored
+[16380:36764:0430/102955.088:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16380:36764:0430/102955.088:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16380:36764:0430/102955.137:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16380:36764:0430/102955.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[34056:36944:0430/102955.310:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[34056:36944:0430/102959.083:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16380:36764:0430/103005.369:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16380:36764:0430/103007.973:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16380:36764:0430/103016.145:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16380:36764:0430/103017.881:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[34056:35036:0430/103257.484:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
