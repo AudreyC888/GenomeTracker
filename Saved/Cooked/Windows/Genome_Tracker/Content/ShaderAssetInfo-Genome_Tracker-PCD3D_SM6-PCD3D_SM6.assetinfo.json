@@ -34,15 +34,15 @@
 		{
 			"ShaderMapHash": "3EC4200C02BC4A3441FA3BCBE775BA0A55BF50C3",
 			"Assets": [
-				"/Game/Materials/levlight"
+				"/Game/Materials/lev/levlight"
 			]
 		},
 		{
 			"ShaderMapHash": "55C8B80C3C6BA0D89559B07C5895B84F48E31FE8",
 			"Assets": [
-				"/Game/Materials/levB",
-				"/Game/Materials/levtexture",
-				"/Game/Materials/lightBuilding1"
+				"/Game/Materials/lev/levB",
+				"/Game/Materials/lev/levtexture",
+				"/Game/Materials/light/lightBuilding1"
 			]
 		},
 		{
@@ -55,6 +55,12 @@
 			"ShaderMapHash": "65AE0310C492DF0E5D5B98A0BBE831B191B02045",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "02B3FB1059DFE74C7ECFF2AFEA72F6607897109C",
+			"Assets": [
+				"/Game/Materials/M_glass"
 			]
 		},
 		{
@@ -96,7 +102,7 @@
 		{
 			"ShaderMapHash": "937A691A30E6D7A1EB58E7AE464FFC3D1051F71F",
 			"Assets": [
-				"/Game/Materials/camolight1"
+				"/Game/Materials/camo/camolight1"
 			]
 		},
 		{
@@ -198,7 +204,13 @@
 		{
 			"ShaderMapHash": "9B70FB3D819DF2DDF260AAEE25C6AFF76F3CB7B7",
 			"Assets": [
-				"/Game/Materials/lightbuilding3"
+				"/Game/Materials/light/lightbuilding3"
+			]
+		},
+		{
+			"ShaderMapHash": "5B5D7C404A6EF4A2630BD99601F5AA9699E2D69B",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MW_VolumeClouds_MASTER"
 			]
 		},
 		{
@@ -211,6 +223,12 @@
 			"ShaderMapHash": "FDBA6C415026B12357749EB03CA2911B217C0AB7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "EF727E42DE350B12C3382A15AE00FB95F3DA3FC6",
+			"Assets": [
+				"/Game/Materials/clark/clarkfire"
 			]
 		},
 		{
@@ -258,7 +276,7 @@
 		{
 			"ShaderMapHash": "D1C67E517C3437F959267455AAA86314290157DD",
 			"Assets": [
-				"/Game/Materials/M_fog"
+				"/Game/Materials/lev/M_fog"
 			]
 		},
 		{
@@ -365,12 +383,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D7D01B7C4872BCA772747973A4C9E56ADFA8FEC2",
-			"Assets": [
-				"/Game/Materials/CamoWall"
-			]
-		},
-		{
 			"ShaderMapHash": "624E8480DD869D6B1975D17C548EF10F18950B3E",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
@@ -389,15 +401,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "84D0AC91D5B402545DCB0C42F939E3A7B2E1704E",
+			"ShaderMapHash": "A122BD8DB73E8A010832B23DF4DFB2A973A1E6BF",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+				"/Game/Materials/clark/clarkface"
 			]
 		},
 		{
-			"ShaderMapHash": "65953E929B3D67BF20A0AF1AD1BB310FCE1F3E31",
+			"ShaderMapHash": "84D0AC91D5B402545DCB0C42F939E3A7B2E1704E",
 			"Assets": [
-				"/Game/Materials/M_glass"
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
 			]
 		},
 		{
@@ -437,9 +449,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7C68DD9E23FCC7B4E2555E86AFD14F7130452435",
+			"Assets": [
+				"/Game/Materials/camo/hiddenwall1"
+			]
+		},
+		{
 			"ShaderMapHash": "FEBED4A11B5B362EBD9CEC790A607DED61F80778",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "452490A23D039E0D2E8D11F0E72F745FC275D531",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton1"
 			]
 		},
 		{
@@ -457,7 +481,7 @@
 		{
 			"ShaderMapHash": "107278A3FF07E843249C9B072D5CFCA40D663F26",
 			"Assets": [
-				"/Game/Materials/lightbuilding2"
+				"/Game/Materials/light/lightbuilding2"
 			]
 		},
 		{
@@ -495,6 +519,12 @@
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
 				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4C5F21B3F428FF9DD4A253E0DEBA588C06D51C68",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton3"
 			]
 		},
 		{
@@ -540,6 +570,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9A3243C4FCF5A2548B78EBA2D8DEDB67A67D5D83",
+			"Assets": [
+				"/Game/Materials/camo/CamoWall"
+			]
+		},
+		{
 			"ShaderMapHash": "21E928C916C6DB10D63B84A795E37CB0B6FFF65B",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LayerVisMaterial"
@@ -548,13 +584,13 @@
 		{
 			"ShaderMapHash": "906460CAE5CF2A7606450CFC90F0C1276B47FD23",
 			"Assets": [
-				"/Game/Materials/camo"
+				"/Game/Materials/camo/camo"
 			]
 		},
 		{
 			"ShaderMapHash": "3534DFCAA01C1BD9D1E205C4A4F6DF31C935A528",
 			"Assets": [
-				"/Game/Materials/hiddenwall"
+				"/Game/Materials/light/hiddenwall"
 			]
 		},
 		{
@@ -602,7 +638,7 @@
 		{
 			"ShaderMapHash": "3FBA3BD9360338761DEEB637CB79DF8A7F9C44D9",
 			"Assets": [
-				"/Game/Materials/M_fogdense"
+				"/Game/Materials/lev/M_fogdense"
 			]
 		},
 		{
@@ -633,8 +669,8 @@
 		{
 			"ShaderMapHash": "788E61E388BECB24F5A9CB563A1A07F77A86B8A0",
 			"Assets": [
-				"/Game/Materials/levalien",
-				"/Game/Materials/lightalien",
+				"/Game/Materials/lev/levalien",
+				"/Game/Materials/light/lightalien",
 				"/Game/Materials/main"
 			]
 		},
@@ -657,6 +693,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9562B7E96F7A83DC11F70978FE6183BB445ADDE7",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton2"
+			]
+		},
+		{
 			"ShaderMapHash": "EE5510EA8734DE763508EDC3A37D5ED86B9502D8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
@@ -665,7 +707,7 @@
 		{
 			"ShaderMapHash": "7114B9EA7625F77C00B1D3C094F19656700DE9A2",
 			"Assets": [
-				"/Game/Materials/camolight"
+				"/Game/Materials/camo/camolight"
 			]
 		},
 		{
@@ -678,6 +720,12 @@
 			"ShaderMapHash": "95ADA7EC18F140249C92061A20AB3ED9B807ABF5",
 			"Assets": [
 				"/MeshModelingToolsetExp/Materials/PointSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D1DDABEC90A5F365F4FEEA021973FECBB2839B1E",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton"
 			]
 		},
 		{
@@ -695,7 +743,13 @@
 		{
 			"ShaderMapHash": "E9008BF06F762228091361D44260794B446B004F",
 			"Assets": [
-				"/Game/Materials/camoalien"
+				"/Game/Materials/camo/camoalien"
+			]
+		},
+		{
+			"ShaderMapHash": "BACB2DF4772224DCAA9D0992386E80E29DECE367",
+			"Assets": [
+				"/Game/Materials/clark/clarkbody"
 			]
 		},
 		{

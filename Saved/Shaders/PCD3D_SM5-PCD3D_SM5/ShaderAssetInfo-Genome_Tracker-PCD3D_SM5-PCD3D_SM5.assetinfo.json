@@ -20,9 +20,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0FAAD0043CDD5571B8A902068B60DDC1588C9DDD",
+			"Assets": [
+				"/Game/Materials/camo/hiddenwall1"
+			]
+		},
+		{
 			"ShaderMapHash": "0C9508053B5B14883CBEA06447D3F5D80038F8DC",
 			"Assets": [
-				"/Game/Materials/lightbuilding3"
+				"/Game/Materials/light/lightbuilding3"
 			]
 		},
 		{
@@ -34,7 +40,13 @@
 		{
 			"ShaderMapHash": "9B8B2713B63AD48E19F01DA9A2DCC7045D4B465B",
 			"Assets": [
-				"/Game/Materials/levlight"
+				"/Game/Materials/lev/levlight"
+			]
+		},
+		{
+			"ShaderMapHash": "D5CA291462D2CBAC4999910B1F2D5E3860B272AB",
+			"Assets": [
+				"/Game/Materials/M_glass"
 			]
 		},
 		{
@@ -47,6 +59,12 @@
 			"ShaderMapHash": "33A2F115A917DE86332E013B0450824542EC6B95",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A09AF916A4276C5D62C6D8C7FBCED1BECF48FDE8",
+			"Assets": [
+				"/Game/Materials/camo/CamoWall"
 			]
 		},
 		{
@@ -92,12 +110,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5533962CE89BB6213755B6AD94687893B7567CC0",
-			"Assets": [
-				"/Game/Materials/CamoWall"
-			]
-		},
-		{
 			"ShaderMapHash": "155C6430A57CF60395A993EFF9B286FEDCCCF724",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -112,13 +124,19 @@
 		{
 			"ShaderMapHash": "DDAB8A3B8BCE5428F64C2363B8DFC1E3AA2C40E2",
 			"Assets": [
-				"/Game/Materials/camolight1"
+				"/Game/Materials/camo/camolight1"
 			]
 		},
 		{
 			"ShaderMapHash": "F97DDF434730F4664456FE11ECAB7123ED1DF5A5",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDEE834810C8AD8DBBCD72F2E13EF801CF19A3A1",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton"
 			]
 		},
 		{
@@ -130,7 +148,7 @@
 		{
 			"ShaderMapHash": "D457B64A4E9A049922C5D533C08874D110554274",
 			"Assets": [
-				"/Game/Materials/M_fog"
+				"/Game/Materials/lev/M_fog"
 			]
 		},
 		{
@@ -203,13 +221,19 @@
 		{
 			"ShaderMapHash": "044FFA5F421A4F6DEEACF8645CB591AEC238F642",
 			"Assets": [
-				"/Game/Materials/camoalien"
+				"/Game/Materials/camo/camoalien"
 			]
 		},
 		{
 			"ShaderMapHash": "32119A6139B98E30B0FCB19102E0F989AAFFA960",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6DCA9A67E41BF6DE72DA2DFBC900543B22421E9F",
+			"Assets": [
+				"/Game/Materials/clark/clarkface"
 			]
 		},
 		{
@@ -245,7 +269,7 @@
 		{
 			"ShaderMapHash": "1427E76FBF04A978680A111619EEBFAB731DBE82",
 			"Assets": [
-				"/Game/Materials/lightbuilding2"
+				"/Game/Materials/light/lightbuilding2"
 			]
 		},
 		{
@@ -288,7 +312,7 @@
 		{
 			"ShaderMapHash": "183777796D83C2A8AAFBAD94FA6E4938A69488CA",
 			"Assets": [
-				"/Game/Materials/M_fogdense"
+				"/Game/Materials/lev/M_fogdense"
 			]
 		},
 		{
@@ -346,6 +370,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "071B4885CDF06C3B33DEAE798F23C86E9B265FCC",
+			"Assets": [
+				"/Game/Materials/clark/clarkfire"
+			]
+		},
+		{
 			"ShaderMapHash": "CFDB3E86CBF63AF696B24C2294F2E5C4F97528CC",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
@@ -355,6 +385,12 @@
 			"ShaderMapHash": "2B848D8637F3E27A2CB8D831CFEEA65E617A1FF4",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "120C4488624FDC81983CDFAB8E232EF72EA125C0",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MW_VolumeClouds_MASTER"
 			]
 		},
 		{
@@ -370,6 +406,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5EC6E58F30D5A771C9B23E868F3C74C91B188B22",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton3"
+			]
+		},
+		{
+			"ShaderMapHash": "5F634D90A66A656F2B76D8939F7879E64D91A3DB",
+			"Assets": [
+				"/Game/Materials/clark/clarkbody"
+			]
+		},
+		{
 			"ShaderMapHash": "AB6ED8915A62B802DDB6EE131CA7F04ECADD6437",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_SpecularGlossiness"
@@ -378,7 +426,7 @@
 		{
 			"ShaderMapHash": "A8F377933713B63C4A88EA6986DC07FB5AAAD232",
 			"Assets": [
-				"/Game/Materials/camo"
+				"/Game/Materials/camo/camo"
 			]
 		},
 		{
@@ -415,6 +463,12 @@
 			"ShaderMapHash": "5BBEB2A1DD31E5B4F5DA8DF3D6F21CA8AF9E6486",
 			"Assets": [
 				"/MeshModelingToolsetExp/Materials/PointSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A69F75A6BE591C39D0C5822EB0D89FDAC1610109",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton1"
 			]
 		},
 		{
@@ -487,6 +541,12 @@
 			"ShaderMapHash": "33EA49B2CA7A2B0BAE0CB98C43CD8E82BBD7C05C",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "73CA86B5295130272A79CA0A76A4E438CA6C9477",
+			"Assets": [
+				"/Game/Materials/clark/clarkbutton2"
 			]
 		},
 		{
@@ -570,8 +630,8 @@
 		{
 			"ShaderMapHash": "DBDD66D973FBE1FB01D3F0938F906232A6C15B88",
 			"Assets": [
-				"/Game/Materials/levalien",
-				"/Game/Materials/lightalien",
+				"/Game/Materials/lev/levalien",
+				"/Game/Materials/light/lightalien",
 				"/Game/Materials/main"
 			]
 		},
@@ -612,12 +672,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3BB481E4776F2F6B7075392EE1024A2E65C1F2DC",
-			"Assets": [
-				"/Game/Materials/M_glass"
-			]
-		},
-		{
 			"ShaderMapHash": "A0823EE5F98092C1903F30DC31CD2F16F72F8480",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
@@ -638,7 +692,7 @@
 		{
 			"ShaderMapHash": "1064D0E696F24D3509BBFB367A79E904A2DBF60C",
 			"Assets": [
-				"/Game/Materials/camolight"
+				"/Game/Materials/camo/camolight"
 			]
 		},
 		{
@@ -662,7 +716,7 @@
 		{
 			"ShaderMapHash": "E5EF84EF5B2A50064C5C54D8A97C11C67C3EBAAC",
 			"Assets": [
-				"/Game/Materials/hiddenwall"
+				"/Game/Materials/light/hiddenwall"
 			]
 		},
 		{
@@ -674,9 +728,9 @@
 		{
 			"ShaderMapHash": "AB8254F4C4E7763A804FD316BE27F85CCA020A55",
 			"Assets": [
-				"/Game/Materials/levB",
-				"/Game/Materials/levtexture",
-				"/Game/Materials/lightBuilding1"
+				"/Game/Materials/lev/levB",
+				"/Game/Materials/lev/levtexture",
+				"/Game/Materials/light/lightBuilding1"
 			]
 		},
 		{
