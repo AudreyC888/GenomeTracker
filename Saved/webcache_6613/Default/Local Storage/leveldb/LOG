@@ -1,3 +1,14 @@
-2026/05/01-09:59:57.199 1e0c Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/01-09:59:57.348 1e0c Recovering log #35
-2026/05/01-09:59:57.360 1e0c Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000035.log 
+2026/05/02-18:36:49.164 15d0 Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/02-18:36:49.176 15d0 Recovering log #35
+2026/05/02-18:36:49.176 15d0 Level-0 table #38: started
+2026/05/02-18:36:49.181 15d0 Level-0 table #38: 63182 bytes OK
+2026/05/02-18:36:49.186 15d0 Delete type=0 #35
+2026/05/02-18:36:49.187 7d4 Compacting 4@0 + 1@1 files
+2026/05/02-18:36:49.195 7d4 Generated table #40@0: 4 keys, 16187 bytes
+2026/05/02-18:36:49.195 7d4 Compacted 4@0 + 1@1 files => 16187 bytes
+2026/05/02-18:36:49.195 7d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/02-18:36:49.196 7d4 Delete type=2 #27
+2026/05/02-18:36:49.196 7d4 Delete type=2 #29
+2026/05/02-18:36:49.196 7d4 Delete type=2 #32
+2026/05/02-18:36:49.196 7d4 Delete type=2 #36
+2026/05/02-18:36:49.196 7d4 Delete type=2 #38
