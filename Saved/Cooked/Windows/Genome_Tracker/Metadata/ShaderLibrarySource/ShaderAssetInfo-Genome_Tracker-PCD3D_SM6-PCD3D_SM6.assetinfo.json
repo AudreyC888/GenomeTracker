@@ -763,6 +763,12 @@
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
+		},
+		{
+			"ShaderMapHash": "71D1B6FF6516312013B35199A03AEE36F29D7D8D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BoneWeightMaterial"
+			]
 		}
 	]
 }

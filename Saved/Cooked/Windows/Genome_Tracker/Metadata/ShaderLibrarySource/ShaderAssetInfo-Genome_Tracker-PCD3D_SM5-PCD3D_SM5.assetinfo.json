@@ -394,6 +394,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "71909D8AA1DDAF0D4DA354B43FB930EBA4F22FEF",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BoneWeightMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F873F98C374FD5E1225FEF6F908106831437BD78",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"

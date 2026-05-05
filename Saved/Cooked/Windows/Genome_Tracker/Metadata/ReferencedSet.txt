@@ -118,8 +118,10 @@
 /engine/editorresources/sequencerecorder/countdown
 /engine/editorresources/sequencerecorder/recordingindicator
 /engine/enginedamagetypes/dmgtypebp_environmental
+/engine/enginedebugmaterials/boneweightmaterial
 /engine/enginedebugmaterials/debugeditormaterial
 /engine/enginedebugmaterials/debugmeshmaterial
+/engine/enginedebugmaterials/heatmapgradient
 /engine/enginedebugmaterials/m_simpleunlittranslucent
 /engine/enginedebugmaterials/m_volumerenderspheretracepp
 /engine/enginedebugmaterials/volumetorender
@@ -315,7 +317,10 @@
 /game/blueprints/dialogue/end
 /game/blueprints/dialogue/ia_interactf
 /game/blueprints/dialogue/lev1
+/game/blueprints/dialogue/lev2
+/game/blueprints/dialogue/levend
 /game/blueprints/dialogue/levgetpower
+/game/blueprints/dialogue/levin
 /game/blueprints/dialogue/levintro
 /game/blueprints/dialogue/light1
 /game/blueprints/dialogue/lightgetpower
@@ -327,6 +332,7 @@
 /game/blueprints/teleporter_destination
 /game/blueprints/teleporter_sender
 /game/blueprints/widgets/wd_controls
+/game/blueprints/widgets/wd_controlspause
 /game/blueprints/widgets/wd_default
 /game/blueprints/widgets/wd_end
 /game/blueprints/widgets/wd_endbad
