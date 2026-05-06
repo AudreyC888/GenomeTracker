@@ -1,18 +1,4 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-2026/05/04-10:53:55.814 9dec Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/04-10:53:55.826 9dec Recovering log #46
-2026/05/04-10:53:55.842 9dec Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000046.log 
-=======
->>>>>>> Stashed changes
-2026/05/04-19:27:02.360 cf8 Reusing MANIFEST C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/04-19:27:02.365 cf8 Recovering log #46
-2026/05/04-19:27:02.369 cf8 Reusing old log C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\Local Storage\leveldb/000046.log 
-2026/05/04-22:06:12.218 6b14 Level-0 table #49: started
-2026/05/04-22:06:12.224 6b14 Level-0 table #49: 70959 bytes OK
-2026/05/04-22:06:12.226 6b14 Delete type=0 #46
-<<<<<<< Updated upstream
-=======
->>>>>>> 7b143940e8f3c45fab0fe81d9762bdce6a8cabb2
->>>>>>> Stashed changes
+2026/05/06-10:08:30.093 ca8 Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/06-10:08:30.128 ca8 Recovering log #48
+2026/05/06-10:08:30.132 ca8 Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Local Storage\leveldb/000048.log 
+2026/05/06-10:08:30.134 ca8 Delete type=0 #46

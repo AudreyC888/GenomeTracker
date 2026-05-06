@@ -1,3 +1,9 @@
-2026/05/04-10:12:58.516 26f8 Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/05/04-10:12:58.651 26f8 Recovering log #3
-2026/05/04-10:12:58.654 26f8 Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+2026/05/04-10:53:55.623 a940 Reusing MANIFEST C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/04-10:53:55.641 a940 Recovering log #3
+2026/05/04-10:53:55.642 a940 Reusing old log C:\Users\audre\OneDrive - University of Pittsburgh\Personal\hs\GenomeTracker\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
+=======
+>>>>>>> 7b143940e8f3c45fab0fe81d9762bdce6a8cabb2
+>>>>>>> Stashed changes
