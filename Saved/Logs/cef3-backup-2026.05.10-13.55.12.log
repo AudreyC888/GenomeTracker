@@ -1,0 +1,6 @@
+[43568:19688:0508/100047.942:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43568:19688:0508/100047.950:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[43568:19688:0508/100048.267:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[43568:26764:0508/100048.515:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43568:19688:0508/100048.740:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43568:19688:0508/100114.301:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
