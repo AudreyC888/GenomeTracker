@@ -280,6 +280,7 @@
 /engine/vreditor/laserpointer/vr_laserpower_01
 /engine/vreditor/snapgrid/snapgridmaterial
 /engine/vreditor/snapgrid/snapgridplanemesh
+/engine/vreditor/sounds/ui/click_on_button
 /engine/vreditor/sounds/ui/drop_item_from_contentbrowser
 /engine/vreditor/sounds/ui/gizmo_handle_clicked
 /engine/vreditor/sounds/ui/object_pickup
@@ -323,6 +324,7 @@
 /game/blueprints/dialogue/levin
 /game/blueprints/dialogue/levintro
 /game/blueprints/dialogue/light1
+/game/blueprints/dialogue/light2
 /game/blueprints/dialogue/lightgetpower
 /game/blueprints/dialogue/lightpuzzle
 /game/blueprints/dialogue/options1
@@ -538,7 +540,9 @@
 /game/mwlandscapeautomaterial/textures/tex_mw_temp_col
 /game/mwlandscapeautomaterial/textures/tex_mw_temp_msk
 /game/mwlandscapeautomaterial/textures/tex_mw_temp_nrm
-/game/startercontent/audio/explosion01
+/game/startercontent/audio/2023-05-01_-_final_descent_-_www_fesliyanstudios_com
+/game/startercontent/audio/vid_20260511_070929
+/game/startercontent/hdri/camerashake
 /game/startercontent/materials/m_rock_slate
 /game/startercontent/textures/t_macrovariation
 /game/startercontent/textures/t_perlin_noise_m

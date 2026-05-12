@@ -1,5 +1,0 @@
-[5964:7556:0506/100829.162:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5964:7556:0506/100829.166:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[5964:4892:0506/100829.616:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5964:7556:0506/100829.832:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5964:7556:0506/100845.564:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser

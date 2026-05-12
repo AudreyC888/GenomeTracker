@@ -226,12 +226,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EF727E42DE350B12C3382A15AE00FB95F3DA3FC6",
-			"Assets": [
-				"/Game/Materials/clark/clarkfire"
-			]
-		},
-		{
 			"ShaderMapHash": "051E0E43F97F7F9D1FAE61F1602B78C84E6F8707",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
@@ -265,6 +259,12 @@
 			"ShaderMapHash": "02BF434A6E6E9F48B755E989BD1F5D4036AC55ED",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "CAC32C4B49BCCAAA89E6A8628E23464F70E6F680",
+			"Assets": [
+				"/Game/Materials/clark/clarkfire"
 			]
 		},
 		{

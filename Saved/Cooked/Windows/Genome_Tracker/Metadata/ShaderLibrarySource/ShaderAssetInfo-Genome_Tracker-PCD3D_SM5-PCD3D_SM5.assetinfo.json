@@ -370,12 +370,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "071B4885CDF06C3B33DEAE798F23C86E9B265FCC",
-			"Assets": [
-				"/Game/Materials/clark/clarkfire"
-			]
-		},
-		{
 			"ShaderMapHash": "CFDB3E86CBF63AF696B24C2294F2E5C4F97528CC",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
@@ -445,6 +439,12 @@
 			"ShaderMapHash": "C98E6D97D3DC12BD98F3A890D2B214B354FCEB21",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "457FC6993EEA62459AC8A587AB3D279EB4FB5E28",
+			"Assets": [
+				"/Game/Materials/clark/clarkfire"
 			]
 		},
 		{

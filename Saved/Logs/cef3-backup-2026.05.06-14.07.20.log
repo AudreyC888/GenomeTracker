@@ -1,47 +1,0 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-[30432:4960:0504/105355.430:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[30432:4960:0504/105355.432:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[30432:29704:0504/105355.549:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[30432:4960:0504/105355.579:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13728:41300:0504/105409.909:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CD3FC38D5047FAD9861EF90683EF685C will be ignored
-[30432:9544:0504/105415.153:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30432:9544:0504/105415.184:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[39148:19268:0504/105415.310:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[39148:19268:0504/105415.487:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[39148:19268:0504/105424.579:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[39148:19268:0504/105427.251:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[39148:19268:0504/105433.204:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[39148:19268:0504/105435.844:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[30432:9544:0504/122043.924:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30432:9544:0504/122044.199:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30432:9544:0504/122046.749:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30432:9544:0504/122046.788:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[30432:15632:0506/095830.801:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[39148:32116:0506/095831.106:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[30432:15632:0506/095831.148:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[30432:4960:0506/095906.725:ERROR:device_event_log_impl.cc(196)] [09:59:06.132] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[30432:4960:0506/095908.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[30432:4960:0506/100004.185:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
->>>>>>> Stashed changes
-[25100:27276:0504/192702.231:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25100:10852:0504/192702.286:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25100:27276:0504/192702.305:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25100:580:0504/192704.100:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25100:580:0504/192704.103:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25100:580:0504/192704.106:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25100:580:0504/192704.107:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\audre\OneDrive - West Allegheny School District\2d 3d animation\Unreal Projects\GitHub\new\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25100:15896:0504/192704.384:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25100:15896:0504/192704.386:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20936:1744:0504/192706.551:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A99AB0A7135A1A84265794B19EADC80B will be ignored
-[28100:1784:0504/192708.885:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28100:1784:0504/192708.893:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[28100:1784:0504/192720.100:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28100:1784:0504/192735.154:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[25100:27276:0504/220612.332:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-<<<<<<< Updated upstream
-=======
->>>>>>> 7b143940e8f3c45fab0fe81d9762bdce6a8cabb2
->>>>>>> Stashed changes
